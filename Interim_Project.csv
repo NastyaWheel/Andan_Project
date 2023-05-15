@@ -1,0 +1,1488 @@
+,artist_mb,country_mb,listeners_lastfm,scrobbles_lastfm,Количество лайков,Количество треков,Количество альбомов,Жанры
+0,Coldplay,United Kingdom,5381567.0,360111850.0,1285587,186,60,['rock']
+1,Radiohead,United Kingdom,4732528.0,499548797.0,383038,200,42,['indie']
+2,Red Hot Chili Peppers,United States,4620835.0,293784041.0,2123125,266,32,['rock']
+3,Rihanna,United States,4558193.0,199248986.0,1670335,268,57,"['pop', 'dance', 'rnb']"
+4,Eminem,United States,4517997.0,199507511.0,5179686,396,37,['foreignrap']
+5,The Killers,United States,4428868.0,208722092.0,373810,151,25,"['alternative', 'rock', 'indie']"
+6,Kanye West,United States,4390502.0,238603850.0,1981468,386,51,['foreignrap']
+7,Nirvana,United States,4272894.0,222303859.0,3500045,165,15,"['rock', 'alternative']"
+8,Muse,United Kingdom,4089612.0,344838631.0,1033821,149,35,"['alternative', 'rock']"
+9,Queen,United Kingdom,4023379.0,191711573.0,4431010,297,38,"['rock', 'hardrock', 'films']"
+10,Foo Fighters,United States,4005236.0,194253620.0,70483,173,1,"['rock', 'alternative', 'hardrock']"
+11,Linkin Park,United States,3978390.0,294986508.0,3569673,204,45,['numetal']
+12,Lady Gaga,United States,3820581.0,285469647.0,648776,279,44,['pop']
+13,The Rolling Stones,United Kingdom,3798330.0,154106551.0,537854,540,124,"['rock', 'blues', 'rnr']"
+14,Daft Punk,France,3782404.0,209502122.0,932047,170,22,['house']
+15,Green Day,United States,3738772.0,188558689.0,1044955,260,45,"['alternative', 'punk', 'rock']"
+16,Katy Perry,United States,3733134.0,146330284.0,756452,165,45,"['pop', 'dance', 'edmgenre']"
+17,The Beatles,United Kingdom,3674017.0,517126254.0,2528982,358,41,"['rock', 'rnr', 'prog']"
+18,Oasis,United Kingdom,3592076.0,150683301.0,82536,136,1,['rock']
+19,Gorillaz,United Kingdom,3577998.0,169844826.0,636233,213,40,['indie']
+20,Beyoncé,United States,3554615.0,153947081.0,615791,254,16,['pop']
+21,Michael Jackson,United States,3546966.0,131160791.0,729302,335,21,['pop']
+22,Maroon 5,United States,3507447.0,118003794.0,1462438,165,32,"['pop', 'rock', 'foreignrap']"
+23,Arctic Monkeys,United Kingdom,3501680.0,332306552.0,767365,110,25,['indie']
+24,System of a Down,United States,3497648.0,226695285.0,1537028,76,1,['alternativemetal']
+25,U2,Ireland,3487345.0,142775747.0,143757,346,51,['rock']
+26,Kings of Leon,United States,3437638.0,169728792.0,57341,101,1,['alternative']
+27,Drake,Canada,3379644.0,140245379.0,1882589,432,63,['foreignrap']
+28,David Bowie,United Kingdom,3354711.0,193061649.0,189166,767,129,"['rock', 'pop', 'dance']"
+29,The Black Eyed Peas,United States,3346410.0,71031050.0,1509816,175,28,"['pop', 'foreignrap', 'rap']"
+30,The Strokes,United States,3262563.0,168904115.0,20472,68,0,"['indie', 'pop', 'rock']"
+31,Britney Spears,United States,3255085.0,201961724.0,262566,164,1,['pop']
+32,Guns N’ Roses,United States,3241492.0,116266032.0,656507,190,19,"['hardrock', 'rock']"
+33,Franz Ferdinand,United Kingdom,3203026.0,113191642.0,51109,124,31,['indie']
+34,The Doors,United States,3189868.0,133763665.0,251627,415,37,['allrock']
+35,JAY-Z,United States,3169635.0,85047192.0,361163,478,40,['rap']
+36,Madonna,United States,3102727.0,154336623.0,271664,483,67,"['pop', 'dance', 'electronics']"
+37,Pink Floyd,United Kingdom,3081313.0,313236119.0,1170406,260,36,"['prog', 'rock', 'pop']"
+38,Weezer,United States,3050491.0,106853548.0,17142,230,32,"['alternative', 'rock', 'pop']"
+39,Snow Patrol,United Kingdom,2982390.0,89077807.0,34975,120,24,"['alternative', 'rock', 'indie']"
+40,blink‐182,United States,2976416.0,176453833.0,284486,156,15,"['rock', 'punk', 'pop']"
+41,The White Stripes,United States,2956612.0,127227708.0,205803,119,3,['alternative']
+42,The Cure,United Kingdom,2932819.0,156234819.0,752168,309,31,['rock']
+43,Led Zeppelin,United Kingdom,2930957.0,188306100.0,735130,146,20,"['hardrock', 'rock']"
+44,Beck,United States,2918241.0,102281190.0,17078,314,38,['rock']
+45,Aerosmith,United States,2904687.0,72269474.0,542005,322,13,['hardrock']
+46,The Offspring,United States,2900065.0,123898492.0,1093833,146,18,"['punk', 'rock', 'holiday']"
+47,Metallica,United States,2894382.0,281172228.0,2259281,255,45,['thrashmetal']
+48,R.E.M.,United States,2886482.0,93258977.0,69351,394,43,['alternative']
+49,Blur,United Kingdom,2872022.0,89240809.0,126404,214,15,['rock']
+50,Adele,United Kingdom,2856839.0,128162302.0,1095251,61,7,['pop']
+51,Rage Against the Machine,United States,2843686.0,90599140.0,52052,59,1,['alternativemetal']
+52,Death Cab for Cutie,United States,2834516.0,167954728.0,7231,174,31,['indie']
+53,Nickelback,Canada,2832931.0,84126122.0,2146609,106,16,"['rock', 'alternative']"
+54,Justin Timberlake,United States,2821887.0,73976022.0,527524,186,10,"['pop', 'foreignrap', 'rap']"
+55,The Smashing Pumpkins,United States,2814837.0,126060288.0,22776,281,14,"['rock', 'alternative']"
+56,MGMT,United States,2795384.0,97241721.0,41898,54,4,['indie']
+57,Johnny Cash,United States,2795136.0,104272344.0,665974,2688,532,"['country', 'pop']"
+58,Christina Aguilera,United States,2788515.0,128756438.0,118858,197,9,"['pop', 'soundtrack', 'dance']"
+59,David Guetta,France,2782756.0,88750979.0,3792531,563,124,['edmgenre']
+60,The Who,United Kingdom,2766960.0,73125398.0,38856,406,38,"['rock', 'hardrock', 'allrock']"
+61,Jimi Hendrix,United States,2726814.0,72120942.0,47912,219,6,"['rock', 'hardrock', 'pop']"
+62,Fall Out Boy,United States,2726290.0,146706443.0,1170657,150,30,['alternative']
+63,Pearl Jam,United States,2709816.0,144516707.0,21772,344,217,"['rock', 'alternative', 'folk']"
+64,AC/DC,Australia,2691018.0,135355015.0,2191074,269,4,['hardrock']
+65,Depeche Mode,United Kingdom,2685086.0,165330799.0,1060869,255,1,"['electronics', 'rock', 'alternative']"
+66,Moby,United States,2663279.0,94156879.0,998089,517,104,['electronics']
+67,Bob Dylan,United States,2662912.0,154776081.0,243870,1511,96,['foreignbard']
+68,Usher,United States,2650020.0,39319140.0,71387,237,18,"['rnb', 'pop', 'dance']"
+69,50 Cent,United States,2645222.0,39383493.0,1556987,331,44,['foreignrap']
+70,The Kooks,United Kingdom,2643672.0,111420305.0,48805,155,37,['indie']
+71,Placebo,United Kingdom,2642228.0,188389930.0,648747,153,17,['rock']
+72,Avril Lavigne,Canada,2627363.0,115252437.0,243450,114,7,['alternative']
+73,Chris Brown,United States,2624857.0,47604118.0,319586,732,66,"['rap', 'rnb', 'pop']"
+74,Christopher Brown,United States,2624857.0,47604118.0,319586,732,66,"['rap', 'rnb', 'pop']"
+75,Incubus,United States,2595785.0,111190422.0,26752,130,5,['alternative']
+76,Massive Attack,United Kingdom,2577949.0,117454784.0,87639,161,26,['triphopgenre']
+77,Arcade Fire,Canada,2564099.0,183170673.0,24511,94,1,['indie']
+78,Korn,United States,2549183.0,129766477.0,987002,201,18,['numetal']
+79,Jack Johnson,United States,2545095.0,115358168.0,5601,175,23,"['rock', 'foreignbard', 'pop']"
+80,3 Doors Down,United States,2525225.0,59089175.0,237030,100,16,"['rock', 'vocal', 'alternative']"
+81,Amy Winehouse,United Kingdom,2513247.0,94539297.0,1054292,88,13,"['rnb', 'pop', 'soul']"
+82,Bloc Party,United Kingdom,2511966.0,106931429.0,10648,49,12,"['alternative', 'rock', 'indie']"
+83,OutKast,United States,2508114.0,48749317.0,22258,157,0,"['rap', 'pop']"
+84,Elton John,United Kingdom,2506942.0,49863371.0,132963,761,71,"['pop', 'rock', 'dance']"
+85,Yeah Yeah Yeahs,United States,2495391.0,87486001.0,23719,58,8,"['alternative', 'rock', 'electronics']"
+86,P!nk,United States,2495211.0,68613195.0,333087,170,1,"['pop', 'films']"
+87,Snoop Dogg,United States,2493508.0,39079490.0,793547,1639,243,['rap']
+88,Kid Cudi,United States,2485167.0,72090030.0,68981,197,20,"['rap', 'alternative', 'dance']"
+89,Kesha,United States,2479795.0,95346150.0,42047,132,9,['pop']
+90,Paramore,United States,2479012.0,186641835.0,135957,85,18,"['alternative', 'rock', 'dance']"
+91,Queens of the Stone Age,United States,2472579.0,140941461.0,28528,102,15,"['stonerrock', 'rock', 'alternative']"
+92,Papa Roach,United States,2469808.0,78770487.0,925336,177,34,['numetal']
+93,Mariah Carey,United States,2459108.0,74250907.0,108689,365,41,"['pop', 'holiday', 'rnb']"
+94,John Mayer,United States,2453071.0,110319385.0,7882,130,3,['rock']
+95,Black Sabbath,United Kingdom,2442953.0,100531599.0,203318,160,24,['classicmetal']
+96,Kasabian,United Kingdom,2436092.0,83211561.0,106381,87,1,['rock']
+97,The Beach Boys,United States,2430401.0,69741270.0,45072,907,123,"['rock', 'pop', 'rnr']"
+98,Kelly Clarkson,United States,2425837.0,64551596.0,25671,205,26,"['pop', 'dance', 'holiday']"
+99,T.I.,United States,2422414.0,32407489.0,52735,849,67,"['rap', 'rnb', 'pop']"
+100,Keane,United Kingdom,2422185.0,66916305.0,43980,130,32,['rock']
+101,Eric Clapton,United Kingdom,2415759.0,51150967.0,1008533,622,47,[]
+102,Florence + the Machine,United Kingdom,2412744.0,170515751.0,149106,99,26,['indie']
+103,Modest Mouse,United States,2393280.0,124614698.0,8271,183,10,['indie']
+104,Elvis Presley,United States,2390753.0,71070448.0,1730911,3563,893,['rnr']
+105,Disturbed,United States,2378787.0,107834086.0,744894,129,20,['alternativemetal']
+106,Simon & Garfunkel,United States,2371627.0,63047210.0,123518,180,18,['folkrock']
+107,Evanescence,United States,2370097.0,103286991.0,1345615,75,5,"['alternative', 'rock']"
+108,My Chemical Romance,United States,2363924.0,124480949.0,215126,87,28,['alternative']
+109,Creedence Clearwater Revival,United States,2362780.0,59206227.0,164424,132,20,"['rock', 'rnr', 'folk']"
+110,Thirty Seconds to Mars,United States,2359138.0,115237826.0,600241,80,19,"['alternative', 'dance', 'pop']"
+111,Frank Sinatra,United States,2357629.0,65804306.0,1825790,11187,1490,['vocaljazz']
+112,Bon Jovi,United States,2353577.0,64020436.0,1476354,345,44,"['rock', 'hardrock', 'pop']"
+113,Slipknot,United States,2350050.0,125294152.0,1725327,101,21,['numetal']
+114,Shakira,Colombia,2346168.0,69004922.0,883597,168,5,"['pop', 'latinfolk', 'dance']"
+115,The Shins,United States,2343174.0,87753546.0,3352,86,12,['indie']
+116,The Clash,United Kingdom,2340643.0,82664393.0,40214,170,2,"['punk', 'rock']"
+117,Dr. Dre,United States,2330510.0,38888220.0,336709,184,16,"['rap', 'rnb', 'foreignrap']"
+118,Alicia Keys,United States,2325048.0,50639370.0,150530,221,7,"['rnb', 'pop', 'foreignrap']"
+119,Pixies,United States,2319799.0,101636787.0,46096,161,50,"['alternative', 'rock', 'indie']"
+120,Limp Bizkit,United States,2304812.0,73617304.0,1572554,121,14,['numetal']
+121,The Smiths,United Kingdom,2297719.0,158731329.0,41564,94,15,"['rock', 'alternative']"
+122,OneRepublic,United States,2278164.0,62846148.0,992017,127,35,"['pop', 'dance', 'rock']"
+123,The Cranberries,Ireland,2276320.0,57877200.0,698192,147,23,['rock']
+124,The Police,United Kingdom,2274662.0,44685580.0,343097,83,11,['rock']
+125,Kaiser Chiefs,United Kingdom,2271009.0,49817025.0,20020,104,17,['indie']
+126,Jason Mraz,United States,2267801.0,62012330.0,13028,180,39,"['pop', 'folk', 'foreignbard']"
+127,Interpol,United States,2266280.0,119327712.0,26033,93,26,['indie']
+128,Beastie Boys,United States,2259629.0,74172611.0,51384,268,33,['rap']
+129,Nelly Furtado,Canada,2258851.0,43050572.0,112765,175,33,"['pop', 'dance', 'rock']"
+130,Three Days Grace,Canada,2254814.0,83440335.0,1302723,80,0,"['rock', 'alternative']"
+131,The Chemical Brothers,United Kingdom,2253285.0,59644501.0,115111,251,51,['breakbeatgenre']
+132,Sum 41,Canada,2238775.0,87667537.0,672428,103,13,"['alternative', 'rock', 'punk']"
+133,Marilyn Manson,United States,2235405.0,122282756.0,932658,208,27,['industrial']
+134,The Prodigy,United Kingdom,2231085.0,99423869.0,1784024,148,36,['breakbeatgenre']
+135,The Fray,United States,2220416.0,53789910.0,10004,70,0,"['rock', 'pop', 'foreignrap']"
+136,Audioslave,United States,2216177.0,54744897.0,17071,45,3,"['alternative', 'rock', 'hardrock']"
+137,Taylor Swift,United States,2203262.0,171760219.0,322614,237,51,"['pop', 'country', 'alternative']"
+138,Panic! at the Disco,United States,2199955.0,111069567.0,656538,85,20,['rock']
+139,Calvin Harris,United Kingdom,2195535.0,73336455.0,1116402,140,10,['edmgenre']
+140,Wiz Khalifa,United States,2193650.0,44503464.0,300435,900,120,"['rap', 'pop', 'foreignrap']"
+141,Björk,Iceland,2192935.0,113183032.0,33321,263,67,['indie']
+142,2Pac,United States,2190778.0,56493035.0,391477,398,19,['foreignrap']
+143,Vampire Weekend,United States,2184031.0,97255748.0,7360,63,12,['indie']
+144,Nine Inch Nails,United States,2183077.0,180102264.0,163796,250,30,['industrial']
+145,John Lennon,United Kingdom,2179477.0,37233044.0,69682,353,30,['rock']
+146,Lily Allen,United Kingdom,2171547.0,68840145.0,8959,104,20,"['pop', 'dance', 'rap']"
+147,Bruce Springsteen,United States,2166429.0,78820430.0,14139,627,22,"['rock', 'audiobooks', 'pop']"
+148,The Black Keys,United States,2163819.0,129480184.0,48540,118,14,"['rock', 'alternative', 'blues']"
+149,Gwen Stefani,United States,2159476.0,31420592.0,35122,96,23,"['pop', 'holiday', 'country']"
+150,Air,France,2155461.0,88645731.0,11383,148,22,['lounge']
+151,Fleetwood Mac,United Kingdom,2153860.0,67427254.0,46418,545,66,"['rock', 'pop', 'blues']"
+152,Stevie Wonder,United States,2151195.0,40746287.0,47853,651,111,['pop']
+153,Dire Straits,United Kingdom,2142421.0,55761163.0,165153,82,18,['rock']
+154,Flo Rida,United States,2135943.0,32287156.0,643523,340,76,"['rap', 'dance', 'pop']"
+155,Sia,Australia,2124548.0,80113588.0,2624605,309,49,['pop']
+156,Deep Purple,United Kingdom,2117490.0,52333132.0,983546,410,75,['hardrock']
+157,Iron Maiden,United Kingdom,2103789.0,167349065.0,211422,199,35,['classicmetal']
+158,The Kinks,United Kingdom,2101793.0,50814188.0,12182,450,48,"['rock', 'rnr', 'pop']"
+159,Jennifer Lopez,United States,2099109.0,34638806.0,215927,234,19,"['pop', 'latinfolk', 'dance']"
+160,Portishead,United Kingdom,2094008.0,83662916.0,37657,53,7,['triphopgenre']
+161,Jimmy Eat World,United States,2085624.0,69412453.0,25389,135,17,['alternative']
+162,Goo Goo Dolls,United States,2076608.0,38489009.0,6020,186,30,['rock']
+163,Iron & Wine,United States,2076333.0,72467229.0,10202,203,26,['indie']
+164,Eagles,United States,2065671.0,34474549.0,154242,204,25,"['rock', 'pop', 'folkrock']"
+165,The Notorious B.I.G.,United States,2064837.0,40350550.0,44669,256,32,"['rap', 'rnb', 'folk']"
+166,Norah Jones,United States,2062669.0,66809058.0,201613,287,43,['vocaljazz']
+167,The Verve,United Kingdom,2054439.0,33978005.0,19184,93,16,"['rock', 'pop', 'alternative']"
+168,Nicki Minaj,United States,2051684.0,69694864.0,291677,379,79,"['rap', 'pop', 'rnb']"
+169,Sigur Rós,Iceland,2048726.0,128544280.0,233329,572,37,['postrock']
+170,The Pussycat Dolls,United States,2045355.0,28147415.0,81975,47,14,"['pop', 'rnb']"
+171,James Blunt,United Kingdom,2039872.0,42415012.0,54171,123,21,"['pop', 'dance']"
+172,Rise Against,United States,2030682.0,142609488.0,362127,137,19,"['rock', 'punk', 'hardcore']"
+173,Miley Cyrus,United States,2024192.0,64095313.0,175691,158,12,"['pop', 'foreignrap', 'rap']"
+174,The Game,United States,2015445.0,29148734.0,42887,1169,181,"['rap', 'foreignrap', 'pop']"
+175,Lupe Fiasco,United States,2011760.0,40441463.0,8519,171,24,"['rap', 'rnb', 'pop']"
+176,No Doubt,United States,2011380.0,40846213.0,134593,104,13,"['pop', 'ska', 'rock']"
+177,Bob Marley,United States,2004655.0,63414859.0,1482607,488,90,"['reggae', 'dance', 'ska']"
+178,Akon,Senegal,1999310.0,24788767.0,699618,484,87,['rap']
+179,Röyksopp,Norway,1995533.0,73295884.0,145324,149,49,"['electronics', 'dance', 'house']"
+180,Pitbull,United States,1987688.0,33712665.0,176324,545,123,"['pop', 'rap', 'dance']"
+181,Breaking Benjamin,United States,1984187.0,75582556.0,114076,87,10,['alternativemetal']
+182,The All‐American Rejects,United States,1984177.0,47283113.0,6400,60,16,"['alternative', 'rock', 'pop']"
+183,Bon Iver,United States,1975644.0,118007303.0,14154,68,11,['indie']
+184,The Velvet Underground,United States,1974564.0,61017038.0,18124,118,19,['rock']
+185,Joy Division,United Kingdom,1970455.0,100792059.0,53517,66,17,['rock']
+186,Feist,Canada,1966716.0,68418397.0,4179,105,14,"['indie', 'pop', 'electronics']"
+187,Leslie Feist,Canada,1966716.0,68418397.0,3,1,0,[]
+188,Counting Crows,United States,1957980.0,35525365.0,1773,119,15,"['rock', 'pop', 'alternative']"
+189,Kylie Minogue,Australia,1951310.0,69598187.0,46368,456,107,['pop']
+190,Sufjan Stevens,United States,1949861.0,124770285.0,12836,428,32,"['alternative', 'electronics', 'indie']"
+191,Nas,United States,1946249.0,48952363.0,78248,617,35,['rap']
+192,Alice in Chains,United States,1935913.0,80798271.0,28531,109,7,"['rock', 'alternative', 'electronics']"
+193,Ludacris,United States,1935692.0,20015486.0,53198,368,39,"['rap', 'rnb', 'pop']"
+194,Fatboy Slim,United Kingdom,1932588.0,33331120.0,70932,292,60,['breakbeatgenre']
+195,Ellie Goulding,United Kingdom,1924069.0,82384090.0,132244,169,32,"['pop', 'dance', 'edmgenre']"
+196,The xx,United Kingdom,1923598.0,141632531.0,446591,80,21,['indie']
+197,Lynyrd Skynyrd,United States,1922165.0,31314805.0,23310,217,41,"['rock', 'hardrock']"
+198,Bob Marley & The Wailers,Jamaica,1921015.0,61433780.0,122821,384,61,"['reggae', 'pop', 'dance']"
+199,Marvin Gaye,United States,1920878.0,31977588.0,248873,898,158,"['rnb', 'jazz', 'blues']"
+200,Dido,United Kingdom,1918740.0,37263646.0,27025,131,13,"['pop', 'electronics', 'dance']"
+201,Nelly,United States,1907134.0,17454627.0,45833,261,38,['rap']
+202,M83,France,1902351.0,83470493.0,98640,178,18,"['alternative', 'electronics', 'films']"
+203,Timbaland,United States,1896126.0,29844393.0,138981,329,41,"['rap', 'pop', 'dance']"
+204,Soundgarden,United States,1884282.0,45579038.0,15414,158,19,"['rock', 'alternative', 'rnr']"
+205,Lana Del Rey,United States,1881065.0,217157209.0,1562727,180,27,['pop']
+206,Jason Derulo,United States,1872933.0,27564385.0,104012,171,54,"['pop', 'dance', 'rnb']"
+207,Robbie Williams,United Kingdom,1860870.0,42651163.0,130840,342,73,['pop']
+208,Alanis Morissette,Canada,1847070.0,46666864.0,5223,160,17,['foreignbard']
+209,Bruno Mars,United States,1841782.0,54224967.0,334527,87,24,"['pop', 'rap', 'dance']"
+210,Cream,United Kingdom,1840819.0,24474369.0,21095,133,20,"['hardrock', 'rock', 'pop']"
+211,Bright Eyes,United States,1839638.0,87036919.0,3952,224,32,['indie']
+212,Ludwig van Beethoven,Germany,1836822.0,34392676.0,2027918,124539,9562,[]
+213,Regina Spektor,United States,1836766.0,86879173.0,22449,113,26,['indie']
+214,The Postal Service,United States,1834782.0,48787893.0,1022,22,7,"['alternative', 'foreignbard', 'rock']"
+215,Train,United States,1834619.0,27291561.0,4592,151,9,"['pop', 'rock', 'electronics']"
+216,Phil Collins,United Kingdom,1823426.0,30623404.0,58065,329,21,['rock']
+217,M.I.A.,United Kingdom,1822953.0,58452171.0,124532,125,20,['bassgenre']
+218,Ramones,United States,1822916.0,72154072.0,43511,364,36,"['punk', 'rock']"
+219,Fergie,United States,1821697.0,21786732.0,405073,78,16,['rnb']
+220,Michael Bublé,Canada,1820040.0,51141689.0,453793,191,30,['vocaljazz']
+221,New Order,United Kingdom,1812756.0,53934046.0,304131,188,28,"['rock', 'pop', 'newwave']"
+222,Rammstein,Germany,1809518.0,165176627.0,2507265,143,15,['industrial']
+223,Mumford & Sons,United Kingdom,1805579.0,97811985.0,23912,82,18,['indie']
+224,Destiny’s Child,United States,1803685.0,21924929.0,28217,72,1,"['pop', 'rnb', 'holiday']"
+225,Lenny Kravitz,United States,1799483.0,29353638.0,83445,234,37,['rock']
+226,Good Charlotte,United States,1798379.0,47175379.0,48920,121,6,"['alternative', 'punk', 'rock']"
+227,Nina Simone,United States,1797381.0,40198909.0,878427,772,320,['vocaljazz']
+228,Bullet for My Valentine,United Kingdom,1795341.0,80878990.0,192855,112,6,['metalcoregenre']
+229,Sting,United Kingdom,1788780.0,37507477.0,1375759,437,63,"['pop', 'rock', 'reggae']"
+230,Van Halen,United States,1788615.0,37647427.0,56208,202,19,['hardrock']
+231,Hoobastank,United States,1784634.0,29014005.0,9248,85,10,"['rock', 'alternative', 'pop']"
+232,Ozzy Osbourne,United States,1780695.0,47084566.0,313916,162,0,['classicmetal']
+233,Billy Joel,United States,1775916.0,33653474.0,36233,275,7,"['rock', 'pop', 'classical']"
+234,Bryan Adams,Canada,1769664.0,27491101.0,57821,293,44,"['rock', 'pop', 'holiday']"
+235,Damien Rice,Ireland,1757501.0,53578954.0,7114,51,10,['foreignbard']
+236,Neil Young,Canada,1754984.0,63728946.0,9131,837,104,"['rock', 'folkrock', 'hardrock']"
+237,Jet,Australia,1754155.0,24002742.0,5113,59,12,"['rock', 'pop', 'electronics']"
+238,Aretha Franklin,United States,1753581.0,26008269.0,218633,990,235,['soul']
+239,John Legend,United States,1750440.0,31199454.0,189873,316,21,"['rnb', 'pop', 'edmgenre']"
+240,Foster the People,United States,1748814.0,56883143.0,60574,75,10,['indie']
+241,Sublime,United States,1746076.0,53108565.0,23840,166,22,['ska']
+242,Deftones,United States,1733395.0,99368336.0,104314,131,19,['alternativemetal']
+243,Band of Horses,United States,1723117.0,55134415.0,5498,68,7,['indie']
+244,The Flaming Lips,United States,1722990.0,53156523.0,4300,333,47,['indie']
+245,The National,United States,1715414.0,144391267.0,37524,151,20,['indie']
+246,Louis Armstrong,United States,1713540.0,25814261.0,1811479,8990,1139,['tradjazz']
+247,Prince,United States,1708033.0,40705507.0,21016,741,45,['rnb']
+248,Rick Ross,United States,1701472.0,18947652.0,99646,1100,214,"['rap', 'rnb', 'foreignrap']"
+249,Tenacious D,United States,1701222.0,54433810.0,9632,83,5,['classicmetal']
+250,Avenged Sevenfold,United States,1700304.0,98312113.0,35262,123,21,['classicmetal']
+251,Two Door Cinema Club,United Kingdom,1699326.0,65639663.0,39135,39,6,['indie']
+252,Blondie,United States,1697662.0,29745302.0,914120,226,45,['newwave']
+253,Journey,United States,1692534.0,27519000.0,19688,187,6,"['rock', 'hardrock', 'prog']"
+254,Justice,France,1691370.0,57881970.0,14861,91,22,"['electronics', 'pop', 'house']"
+255,Goldfrapp,United Kingdom,1689609.0,46535784.0,3870,146,30,"['electronics', 'pop', 'alternative']"
+256,Belle and Sebastian,United Kingdom,1679202.0,92270551.0,3743,206,34,['indie']
+257,Travis,United Kingdom,1676618.0,39313849.0,864775,202,18,"['rap', 'dance', 'pop']"
+258,Ciara,United States,1674587.0,21678350.0,112855,136,10,"['pop', 'rnb', 'rap']"
+259,Ray Charles,United States,1671596.0,26198061.0,1663011,2314,630,"['rnb', 'jazz', 'blues']"
+260,The Cardigans,Sweden,1671502.0,34521564.0,71014,96,14,"['rock', 'pop']"
+261,The Script,United Kingdom,1670620.0,36790475.0,34388,71,1,"['pop', 'rock']"
+262,Passion Pit,United States,1669858.0,48411605.0,2798,70,1,['indie']
+263,Leona Lewis,United Kingdom,1669852.0,27154912.0,7520,117,11,"['pop', 'electronics', 'dance']"
+264,Elliott Smith,United States,1668960.0,101675587.0,6630,138,11,"['rock', 'alternative', 'indie']"
+265,Simple Plan,Canada,1664801.0,43825088.0,49794,93,26,['alternative']
+266,Paul McCartney,United Kingdom,1661640.0,30917213.0,77592,854,71,['rock']
+267,Imagine Dragons,United States,1661600.0,81715914.0,4564984,124,29,['rock']
+268,Editors,United Kingdom,1660522.0,53923378.0,13884,34,5,['indie']
+269,ABBA,Sweden,1659292.0,43698938.0,706973,140,16,"['pop', 'estrada', 'dance']"
+270,Van Morrison,United Kingdom,1654804.0,32621117.0,2276,623,41,"['rock', 'jazz', 'pop']"
+271,Scorpions,Germany,1652144.0,51032860.0,2289167,241,22,['hardrock']
+272,MIKA,United Kingdom,1639940.0,40391220.0,18137,139,39,"['pop', 'holiday', 'african']"
+273,Cat Power,United States,1638994.0,64565369.0,7184,163,20,['indie']
+274,Tiësto,Netherlands,1635719.0,39124309.0,1917567,435,131,['edmgenre']
+275,Jamiroquai,United Kingdom,1633453.0,52383327.0,35709,123,7,['pop']
+276,José González,Sweden,1629952.0,42433187.0,5048,161,26,"['pop', 'foreignbard', 'folk']"
+277,Justin Bieber,Canada,1628031.0,53649697.0,290544,229,43,['pop']
+278,Ella Fitzgerald,United States,1626346.0,28085788.0,479891,8908,1338,['vocaljazz']
+279,Fleet Foxes,United States,1622942.0,67465906.0,8522,71,13,['folkrock']
+280,Ed Sheeran,United Kingdom,1620379.0,85083256.0,1606923,231,57,['pop']
+281,LCD Soundsystem,United States,1618182.0,49490059.0,5704,96,17,['indie']
+282,KISS,United States,1617319.0,45259754.0,779395,312,47,"['hardrock', 'rock', 'classicmetal']"
+283,Sonic Youth,United States,1616177.0,67259569.0,15606,361,43,"['alternative', 'rock', 'experimental']"
+284,Talking Heads,United States,1614218.0,48851820.0,15755,140,22,"['rock', 'pop']"
+285,Stereophonics,United Kingdom,1609542.0,36351999.0,22776,172,18,['rock']
+286,Seether,South Africa,1609221.0,42999302.0,56782,132,19,"['alternative', 'rock', 'electronics']"
+287,Gnarls Barkley,United States,1609000.0,28003997.0,8180,28,8,"['pop', 'foreignrap', 'funk']"
+288,Whitney Houston,United States,1607022.0,22827182.0,355634,206,5,"['pop', 'dance', 'rnb']"
+289,Jeff Buckley,United States,1597589.0,37028734.0,8296,140,5,"['rock', 'pop', 'alternative']"
+290,a‐ha,Norway,1595929.0,27460709.0,120431,171,23,"['pop', 'rock']"
+291,Duran Duran,United Kingdom,1595649.0,27845202.0,38286,272,44,"['pop', 'rock', 'alternative']"
+292,A Perfect Circle,United States,1595162.0,75484129.0,31700,65,10,['alternative']
+293,The Jimi Hendrix Experience,United Kingdom,1593424.0,32802132.0,42891,131,1,"['hardrock', 'rock']"
+294,James Brown,United States,1591633.0,22909752.0,381837,2294,378,[]
+295,Garbage,United States,1586771.0,46795314.0,29350,183,9,"['rock', 'alternative']"
+296,Wolfgang Amadeus Mozart,Austria,1583838.0,42151714.0,1910887,147674,9398,[]
+297,Lifehouse,United States,1580997.0,37584837.0,10983,105,12,"['pop', 'rock', 'indie']"
+298,Lykke Li,Sweden,1579395.0,55416948.0,49808,92,17,['pop']
+299,Santana,United States,1577670.0,26524377.0,10876,743,68,"['rock', 'pop', 'latinfolk']"
+300,J. Cole,United States,1576351.0,36093742.0,31056,205,26,"['rap', 'rnb', 'pop']"
+301,Tool,United States,1576336.0,116234163.0,457442,63,0,['prog']
+302,Tyga,United States,1565966.0,14478130.0,866159,521,127,['foreignrap']
+303,Young Jeezy,United States,1565305.0,16181102.0,38332,866,59,['foreignrap']
+304,B.o.B,United States,1565230.0,24089009.0,13236,556,58,"['rap', 'pop', 'dance']"
+305,Pantera,United States,1564143.0,65635616.0,81216,94,19,['thrashmetal']
+306,Bloodhound Gang,United States,1557230.0,32919481.0,298396,80,14,['rock']
+307,Jefferson Airplane,United States,1556596.0,27925717.0,72620,225,30,"['rock', 'rnr']"
+308,Avicii,Sweden,1554261.0,43778295.0,646648,232,54,['edmgenre']
+309,Enrique Iglesias,Spain,1549855.0,28799602.0,580826,241,39,"['pop', 'latinfolk', 'dance']"
+310,Stone Temple Pilots,United States,1544666.0,31613937.0,6914,110,16,"['rock', 'alternative']"
+311,Motörhead,United Kingdom,1540288.0,62554568.0,100151,326,45,['classicmetal']
+312,The Fratellis,United Kingdom,1536056.0,32489295.0,6622,54,13,['indie']
+313,Spoon,United States,1533000.0,47029224.0,6974,176,35,"['alternative', 'rock', 'indie']"
+314,deadmau5,Canada,1531780.0,51724405.0,30584,379,82,['edmgenre']
+315,Stone Sour,United States,1531245.0,47049006.0,185159,110,11,['alternativemetal']
+316,Johann Sebastian Bach,Germany,1528786.0,50370162.0,1901635,230007,11219,[]
+317,Lou Reed,United States,1528338.0,28321561.0,6423,433,44,"['rock', 'alternative', 'pop']"
+318,Crystal Castles,Canada,1523943.0,102224554.0,477337,43,5,"['electronics', 'experimental']"
+319,Aphex Twin,United Kingdom,1521804.0,72294892.0,26654,33,2,['idmgenre']
+320,Ice Cube,United States,1520433.0,21023225.0,75455,313,23,['rap']
+321,Skrillex,United States,1520281.0,47303680.0,1068255,213,41,['edmgenre']
+322,Miles Davis,United States,1518952.0,49695219.0,80601,5558,968,['bebopgenre']
+323,The Decemberists,United States,1517958.0,62326827.0,2426,164,23,['indie']
+324,Staind,United States,1517439.0,30489342.0,18325,77,10,['alternativemetal']
+325,Taio Cruz,United Kingdom,1516641.0,16670713.0,15262,92,26,"['pop', 'dance', 'rap']"
+326,Iggy Pop,United States,1516462.0,26065229.0,34341,584,89,['rock']
+327,Fabolous,United States,1513913.0,11609028.0,6044,450,52,"['rap', 'rnb', 'foreignrap']"
+328,The Jackson 5,United States,1513899.0,15052030.0,34416,315,40,"['rnb', 'pop', 'soul']"
+329,Wolfmother,Australia,1507282.0,30966172.0,10554,69,14,['hardrock']
+330,Metric,Canada,1506808.0,62407392.0,14226,91,21,['indie']
+331,EELS,United States,1497544.0,48811474.0,9496,169,15,['rock']
+332,Nat King Cole,United States,1495324.0,18655295.0,520836,5240,832,['vocaljazz']
+333,Bonobo,United Kingdom,1491512.0,82103215.0,31408,150,30,['lounge']
+334,George Michael,United Kingdom,1491409.0,21432345.0,63186,135,8,"['pop', 'classical', 'films']"
+335,Yellowcard,United States,1489035.0,46951042.0,32445,130,20,"['alternative', 'rock', 'pop']"
+336,Cyndi Lauper,United States,1484391.0,16925460.0,18786,200,20,"['pop', 'rock', 'rnb']"
+337,Godsmack,United States,1483350.0,37451392.0,339921,95,14,['alternativemetal']
+338,Electric Light Orchestra,United Kingdom,1483026.0,29528731.0,71238,275,15,"['rock', 'pop', 'prog']"
+339,The Hives,Sweden,1479082.0,37954748.0,5659,81,16,"['rock', 'alternative', 'pop']"
+340,Tears for Fears,United Kingdom,1475369.0,22404192.0,12450,132,11,['rock']
+341,Eurythmics,United Kingdom,1474498.0,15480404.0,33777,190,3,"['pop', 'dance', 'rock']"
+342,Kendrick Lamar,United States,1472390.0,103146720.0,610251,246,36,['foreignrap']
+343,Cypress Hill,United States,1470451.0,33342760.0,35700,233,7,['rap']
+344,Hot Chip,United Kingdom,1464154.0,45412531.0,4078,182,36,"['electronics', 'alternative', 'dance']"
+345,The Ting Tings,United Kingdom,1460929.0,26048103.0,2521,37,6,"['pop', 'indie', 'alternative']"
+346,PJ Harvey,United Kingdom,1456874.0,59358104.0,10927,168,32,['rock']
+347,R. Kelly,United States,1456472.0,15193720.0,35307,398,7,"['rnb', 'rap', 'pop']"
+348,Thievery Corporation,United States,1455814.0,45559668.0,12540,172,21,['lounge']
+349,Foals,United Kingdom,1453232.0,67997385.0,64517,142,25,['indie']
+350,Zero 7,United Kingdom,1451387.0,38655964.0,5809,127,29,['triphopgenre']
+351,Tom Waits,United States,1449054.0,87660250.0,268872,508,34,['blues']
+352,DMX,United States,1448326.0,16584826.0,289269,317,31,['rap']
+353,Razorlight,United Kingdom,1444485.0,22959186.0,1359,58,11,"['rock', 'foreignbard']"
+354,Plain White T’s,United States,1442238.0,23410252.0,2809,108,11,['punk']
+355,Broken Social Scene,Canada,1441052.0,53586116.0,1248,111,11,"['alternative', 'indie', 'pop']"
+356,Jessie J,United Kingdom,1438878.0,30037761.0,31253,123,25,"['pop', 'rnb', 'holiday']"
+357,James Morrison,United Kingdom,1434050.0,22597493.0,4490,102,16,"['pop', 'rock', 'foreignbard']"
+358,Big Sean,United States,1429902.0,18434685.0,51059,295,48,"['rap', 'rnb', 'foreignrap']"
+359,Bee Gees,United Kingdom,1424922.0,21981146.0,48975,420,54,"['pop', 'rock', 'foreignbard']"
+360,Chuck Berry,United States,1421709.0,16860769.0,829605,1095,336,"['rock', 'rnr', 'jazz']"
+361,Toto,United States,1420201.0,21326087.0,144293,112,34,['rusrap']
+362,Hans Zimmer,United States,1419727.0,72430364.0,64686,2480,293,[]
+363,Imogen Heap,United Kingdom,1419377.0,36973937.0,1768,132,13,"['pop', 'indie', 'electronics']"
+364,ZZ Top,United States,1418144.0,27205116.0,184529,187,25,['hardrock']
+365,Nick Drake,United Kingdom,1416873.0,44236873.0,5234,73,8,['folkrock']
+366,Colbie Caillat,United States,1415771.0,23040623.0,1537,112,18,"['pop', 'rock', 'holiday']"
+367,Otis Redding,United States,1415521.0,23946904.0,12251,287,55,"['rnb', 'pop', 'soul']"
+368,Backstreet Boys,United States,1413894.0,30799334.0,42225,121,3,"['pop', 'dance', 'holiday']"
+369,Megadeth,United States,1412613.0,97607491.0,108636,220,27,['thrashmetal']
+370,Wale,United States,1412502.0,15340046.0,9632,559,83,"['rap', 'rnb', 'pop']"
+371,Leonard Cohen,Canada,1408723.0,47136928.0,37184,203,8,['rock']
+372,Janis Joplin,United States,1408268.0,23727484.0,16312,162,14,"['rock', 'blues', 'pop']"
+373,Natasha Bedingfield,United Kingdom,1405651.0,16616110.0,1828,92,9,"['pop', 'dance', 'rap']"
+374,TV on the Radio,United States,1404932.0,41588227.0,10079,79,15,['indie']
+375,Owl City,United States,1404223.0,46509829.0,8398,116,25,['indie']
+376,Sarah McLachlan,Canada,1403772.0,22410411.0,1222,161,7,"['pop', 'dance', 'newage']"
+377,Klaxons,United Kingdom,1402306.0,31693882.0,19954,40,7,"['indie', 'electronics', 'estrada']"
+378,Groove Armada,United Kingdom,1394011.0,24093780.0,7802,230,44,"['electronics', 'house', 'dance']"
+379,The Roots,United States,1391144.0,38404124.0,8748,283,25,['rap']
+380,Creed,United States,1391079.0,25018212.0,5450974,111,61,['ruspop']
+381,Sean Paul,Jamaica,1390177.0,17370441.0,481413,512,96,"['dance', 'reggae', 'pop']"
+382,Duffy,United Kingdom,1388989.0,21192860.0,3469,25,4,['pop']
+383,Billy Talent,Canada,1388643.0,67921271.0,144796,80,17,['rock']
+384,Trey Songz,United States,1385307.0,17107853.0,17907,395,46,"['rnb', 'rap', 'pop']"
+385,Sara Bareilles,United States,1381284.0,27242744.0,1481,156,5,"['pop', 'soundtrack', 'films']"
+386,Grizzly Bear,United States,1380716.0,54312987.0,3453,32,1,"['indie', 'alternative', 'rock']"
+387,Céline Dion,Canada,1376413.0,26527944.0,70293,379,3,"['pop', 'soundtrack', 'classical']"
+388,Matchbox Twenty,United States,1375584.0,25538862.0,1801,64,9,"['alternative', 'rock', 'pop']"
+389,Dave Matthews Band,United States,1373554.0,46135861.0,948,7,1,['rap']
+390,Faithless,United Kingdom,1371255.0,25476941.0,12985,163,15,['electronics']
+391,Alice Cooper,United States,1371134.0,31288338.0,61675,488,56,"['hardrock', 'rock', 'metal']"
+392,P.O.D.,United States,1368970.0,28936971.0,124526,135,13,['numetal']
+393,Slayer,United States,1368405.0,82268722.0,98611,152,18,['thrashmetal']
+394,N*E*R*D,United States,1367656.0,20635614.0,3412,89,13,"['rock', 'rap', 'pop']"
+395,Fiona Apple,United States,1367536.0,35689240.0,4083,84,2,"['rock', 'indie', 'pop']"
+396,Beirut,United States,1367043.0,78774202.0,6746,92,8,['indie']
+397,Gotye,Australia,1366823.0,29454994.0,8735,43,4,"['rock', 'pop', 'alternative']"
+398,Yann Tiersen,France,1364967.0,75327242.0,118257,185,15,"['alternative', 'rock', 'pop']"
+399,Nightwish,Finland,1360111.0,129047804.0,556668,148,30,['epicmetal']
+400,Lostprophets,United Kingdom,1359096.0,41602738.0,7967,13,0,['alternative']
+401,Judas Priest,United Kingdom,1356734.0,63102557.0,93866,209,5,['classicmetal']
+402,Busta Rhymes,United States,1355960.0,15445499.0,78719,562,51,"['rap', 'electronics', 'foreignrap']"
+403,Kings of Convenience,Norway,1350951.0,55238021.0,9978,68,9,['indie']
+404,Cold War Kids,United States,1349181.0,27781314.0,4914,88,17,['indie']
+405,Pendulum,Australia,1347530.0,71232410.0,672916,78,18,['dnb']
+406,Rod Stewart,United Kingdom,1338872.0,17331798.0,20883,631,56,"['rock', 'pop', 'folk']"
+407,Drowning Pool,United States,1331799.0,22147618.0,191701,96,10,['numetal']
+408,The Knife,Sweden,1330634.0,57308560.0,7131,25,4,['electronics']
+409,La Roux,United Kingdom,1330457.0,32099177.0,5694,51,12,"['pop', 'alternative', 'electronics']"
+410,Common,United States,1330439.0,23723205.0,3075,334,41,"['rap', 'rnb', 'pop']"
+411,The Libertines,United Kingdom,1328663.0,43152614.0,10252,73,15,"['alternative', 'rock', 'punk']"
+412,The Animals,United Kingdom,1328203.0,13159858.0,319561,288,27,"['rock', 'pop', 'alternative']"
+413,Paul Simon,United States,1324682.0,27301399.0,2169,368,17,"['rock', 'country', 'pop']"
+414,Ben Harper,United States,1322741.0,22829216.0,569,216,40,"['pop', 'rock', 'alternative']"
+415,Tegan and Sara,Canada,1318522.0,80779547.0,3303,201,28,['indie']
+416,Boards of Canada,United Kingdom,1317982.0,95334971.0,7562,24,3,['idmgenre']
+417,A Tribe Called Quest,United States,1317466.0,40352653.0,8648,122,0,"['rap', 'foreignrap']"
+418,Wilco,United States,1316975.0,60296655.0,1969,272,23,"['rock', 'alternative', 'indie']"
+419,Enya,Ireland,1314635.0,50628706.0,70572,156,28,['newage']
+420,Cat Stevens,United Kingdom,1310773.0,24208095.0,3745,141,18,"['pop', 'rock', 'folk']"
+421,Empire of the Sun,Australia,1310646.0,29885144.0,14245,86,11,['electronics']
+422,Genesis,United Kingdom,1310251.0,37346915.0,34679,315,31,"['rock', 'prog', 'folk']"
+423,AFI,United States,1309873.0,60988499.0,17064,171,16,"['alternative', 'punk', 'rock']"
+424,Mary J. Blige,United States,1309603.0,15708429.0,23617,428,45,"['rnb', 'pop', 'rap']"
+425,Mogwai,United Kingdom,1306654.0,67675942.0,100614,94,11,"['postrock', 'electronics', 'trance']"
+426,KT Tunstall,United Kingdom,1304287.0,23596968.0,2218,172,39,['indie']
+427,Foreigner,United States,1303665.0,14780998.0,28788,127,37,"['rock', 'hardrock', 'pop']"
+428,Al Green,United States,1298715.0,17687628.0,24911,239,27,"['rnb', 'soul']"
+429,Animal Collective,United States,1297506.0,79105390.0,1754,187,31,"['alternative', 'rock', 'electronics']"
+430,George Harrison,United Kingdom,1294397.0,20542553.0,31616,228,17,"['rock', 'pop']"
+431,DJ Shadow,United States,1293042.0,35507376.0,8422,185,25,['triphopgenre']
+432,Demi Lovato,United States,1290751.0,60002694.0,160385,190,37,['pop']
+433,Nick Cave & The Bad Seeds,Australia,1289028.0,61295088.0,27025,233,28,"['rock', 'alternative', 'indie']"
+434,Tori Amos,United States,1285209.0,57611629.0,7220,388,26,"['rock', 'pop', 'foreignbard']"
+435,Boston,United States,1283948.0,14794502.0,5500,63,5,"['hardrock', 'rock']"
+436,Janet Jackson,United States,1283129.0,22372696.0,7662,241,38,"['pop', 'rnb', 'electronics']"
+437,Kelis,United States,1279412.0,14286989.0,1800,193,28,"['pop', 'dance', 'electronics']"
+438,Morcheeba,United Kingdom,1276153.0,37250794.0,41722,135,31,['triphopgenre']
+439,Hall & Oates,United States,1275042.0,15808430.0,2599,386,35,"['pop', 'rock', 'electronics']"
+440,The Weeknd,Canada,1273725.0,77088337.0,2818737,195,33,"['rnb', 'rap', 'pop']"
+441,Dean Martin,United States,1271988.0,15877991.0,264433,3183,581,['vocaljazz']
+442,LMFAO,United States,1271545.0,19080863.0,22688,112,11,['edmgenre']
+443,Gucci Mane,United States,1271505.0,18277854.0,63655,2977,285,[]
+444,Rob Zombie,United States,1267552.0,30097302.0,531787,158,16,['industrial']
+445,OK Go,United States,1264482.0,24272783.0,6285,72,18,"['pop', 'rock', 'alternative']"
+446,The Raconteurs,United States,1264417.0,30197859.0,10143,28,0,"['alternative', 'rock']"
+447,Sade,United Kingdom,1253774.0,27565450.0,143392,82,2,"['pop', 'relax', 'rnb']"
+448,Sheryl Crow,United States,1252578.0,15230162.0,3016,350,32,"['pop', 'rock', 'foreignbard']"
+449,Taking Back Sunday,United States,1251465.0,50537271.0,4063,117,16,"['alternative', 'rock']"
+450,Lorde,New Zealand,1250635.0,71889746.0,133285,63,14,['pop']
+451,Robyn,Sweden,1248010.0,36446361.0,4099,192,38,"['pop', 'electronics', 'dance']"
+452,Pharrell Williams,United States,1248003.0,16682057.0,244061,269,18,[]
+453,Billy Idol,United Kingdom,1247234.0,16798702.0,45491,203,28,"['rock', 'holiday']"
+454,Black Rebel Motorcycle Club,United States,1245106.0,35934671.0,16020,68,8,"['rock', 'pop', 'alternative']"
+455,Faith No More,United States,1243564.0,44339407.0,9968,131,14,['rock']
+456,fun.,United States,1243493.0,29056736.0,13006,31,5,"['alternative', 'rock']"
+457,The Used,United States,1242321.0,51224875.0,17870,136,26,['posthardcore']
+458,Of Monsters and Men,Iceland,1239043.0,39764228.0,50591,51,8,['indie']
+459,The Temper Trap,Australia,1238782.0,26492092.0,3872,54,17,"['rock', 'alternative', 'dance']"
+460,Fryderyk Chopin,Poland,1238360.0,40241617.0,1303429,61106,4750,"['classical', 'classicalmasterpieces', 'pop']"
+461,Fort Minor,United States,1238296.0,21919504.0,27860,21,5,"['rap', 'foreignrap', 'alternative']"
+462,Peter Bjorn and John,Sweden,1236437.0,23277072.0,2254,92,12,"['indie', 'pop', 'alternative']"
+463,Spice Girls,United Kingdom,1235798.0,17376480.0,7149,84,19,['pop']
+464,We Are Scientists,United States,1235113.0,24144329.0,4142,159,35,['indie']
+465,Sean Kingston,Jamaica,1234702.0,9000154.0,3522,233,84,[]
+466,Scissor Sisters,United States,1234300.0,26434205.0,6439,80,17,"['pop', 'dance', 'alternative']"
+467,Major Lazer,Jamaica,1233780.0,32468284.0,83550,200,43,"['electronics', 'dance', 'rap']"
+468,Brand New,United States,1232478.0,88033618.0,3370,74,10,"['alternative', 'rock', 'punk']"
+469,All Time Low,United States,1226580.0,60199530.0,34362,83,25,"['alternative', 'pop', 'rock']"
+470,Wham!,United Kingdom,1226369.0,9103738.0,23456,44,1,"['pop', 'estrada', 'films']"
+471,Kate Nash,United Kingdom,1226359.0,32269731.0,2386,83,19,"['pop', 'alternative', 'indie']"
+472,MARINA,United Kingdom,1223283.0,74437496.0,78695,121,26,"['pop', 'dance', 'alternative']"
+473,Morrissey,United Kingdom,1222894.0,54059920.0,7971,217,29,"['indie', 'rock', 'alternative']"
+474,Cage the Elephant,United States,1222135.0,29364309.0,41042,66,5,['indie']
+475,Pet Shop Boys,United Kingdom,1221619.0,33529658.0,36705,522,74,"['pop', 'electronics', 'dance']"
+476,Gym Class Heroes,United States,1221125.0,22321053.0,26161,70,9,['rap']
+477,Bill Withers,United States,1220947.0,13406368.0,80209,70,3,"['pop', 'rnb', 'dance']"
+478,Fugees,United States,1220422.0,13052622.0,3854,68,1,['foreignrap']
+479,Apocalyptica,Finland,1219619.0,54389751.0,247706,90,17,['alternativemetal']
+480,Missy Elliott,United States,1218650.0,13300552.0,17191,273,28,"['rap', 'rnb', 'pop']"
+481,Supertramp,United Kingdom,1218552.0,20147763.0,12498,98,15,"['rock', 'prog', 'alternative']"
+482,Skillet,United States,1217649.0,40459943.0,1775977,162,22,"['alternative', 'rock', 'hardrock']"
+483,D12,United States,1217647.0,9500807.0,33615,100,12,"['rap', 'foreignbard', 'reggae']"
+484,Dashboard Confessional,United States,1215151.0,37169252.0,822,122,27,"['alternative', 'rock', 'indie']"
+485,Smash Mouth,United States,1214675.0,12377533.0,20258,95,12,"['rock', 'alternative', 'pop']"
+486,Bush,United Kingdom,1213688.0,20971407.0,5110,134,13,"['rock', 'alternative', 'soundtrack']"
+487,Andrew Bird,United States,1211150.0,47991856.0,2649,298,34,['indie']
+488,Beach House,United States,1210107.0,70580349.0,7050,71,10,['indie']
+489,A Day to Remember,United States,1209846.0,87284223.0,218374,107,12,['posthardcore']
+490,Killswitch Engage,United States,1209750.0,54611786.0,26287,110,9,['metalcoregenre']
+491,Frank Ocean,United States,1205614.0,78738658.0,90551,64,6,['rnb']
+492,Billie Holiday,United States,1203493.0,38368992.0,54492,4375,767,['vocaljazz']
+493,John Williams,United States,1203493.0,38368992.0,10635,1446,72,"['films', 'soundtrack', 'classical']"
+494,Mark Ronson,United Kingdom,1199475.0,18142041.0,5756,126,9,"['pop', 'dance', 'rap']"
+495,Ryan Adams,United States,1194703.0,41956467.0,2558,396,55,['rock']
+496,Explosions in the Sky,United States,1194443.0,58902741.0,29272,87,12,['postrock']
+497,"Earth, Wind & Fire",United States,1193623.0,15327911.0,121637,311,15,"['rnb', 'funk', 'soul']"
+498,Keri Hilson,United States,1189883.0,10966920.0,30614,83,12,"['pop', 'foreignrap', 'rap']"
+499,Natalie Imbruglia,Australia,1189874.0,13706707.0,4821,82,3,"['pop', 'rock']"
+500,In Flames,Sweden,1185307.0,142028073.0,99977,191,20,['alternativemetal']
+501,Corinne Bailey Rae,United Kingdom,1181139.0,15530847.0,4879,73,17,"['pop', 'rnb', 'rap']"
+502,The Wombats,United Kingdom,1179755.0,30598046.0,7605,132,20,['indie']
+503,The Stone Roses,United Kingdom,1179145.0,27067817.0,5748,54,4,['rock']
+504,Swedish House Mafia,Sweden,1178750.0,17267400.0,56241,36,11,['edmgenre']
+505,Basement Jaxx,United Kingdom,1173280.0,20845555.0,4132,212,36,"['electronics', 'house', 'dance']"
+506,Daughtry,United States,1172901.0,25727067.0,30711,93,5,"['rock', 'pop', 'alternative']"
+507,The Dandy Warhols,United States,1172561.0,23241520.0,1888,151,25,['alternative']
+508,Bat for Lashes,United Kingdom,1171849.0,36829533.0,5593,71,17,['indie']
+509,Third Eye Blind,United States,1170970.0,25292554.0,1780,113,18,"['rock', 'alternative']"
+510,TLC,United States,1170503.0,10999932.0,16766,119,7,"['rnb', 'soul', 'pop']"
+511,Kansas,United States,1167538.0,13778139.0,286498,153,10,"['rock', 'prog', 'hardrock']"
+512,The Bravery,United States,1166768.0,18489056.0,1690,36,5,['rock']
+513,Tom Petty and the Heartbreakers,United States,1164256.0,21367181.0,3830,350,34,"['rock', 'rnr', 'pop']"
+514,Sex Pistols,United Kingdom,1163710.0,21543573.0,47029,165,18,"['punk', 'rock']"
+515,Shinedown,United States,1163109.0,34365696.0,71269,109,28,['alternativemetal']
+516,White Lies,United Kingdom,1162135.0,31479638.0,16165,61,13,"['alternative', 'rock']"
+517,DJ Khaled,United States,1160535.0,12461697.0,18608,275,25,"['rap', 'foreignrap', 'pop']"
+518,Kate Bush,United Kingdom,1160104.0,40349519.0,9533,59,5,['pop']
+519,Miike Snow,Sweden,1158616.0,26942931.0,2127,53,6,['pop']
+520,INXS,Australia,1158107.0,17983947.0,16695,177,33,"['rock', 'pop', 'dance']"
+521,Cut Copy,Australia,1156485.0,33433852.0,1633,124,30,"['electronics', 'pop', 'dance']"
+522,Peter Gabriel,United Kingdom,1155462.0,23764503.0,17756,325,31,"['rock', 'folk', 'pop']"
+523,Edward Sharpe and the Magnetic Zeros,United States,1153106.0,24581833.0,4127,58,7,['indie']
+524,Static-X,United States,1152938.0,29172615.0,383753,102,9,['numetal']
+525,Benny Benassi,Italy,1150247.0,12581100.0,209167,328,62,['edmgenre']
+526,Roxette,Sweden,1150161.0,23037313.0,240129,292,43,"['pop', 'dance', 'electronics']"
+527,Pulp,United Kingdom,1149604.0,29505476.0,6946,98,8,['rock']
+528,The Byrds,United States,1148899.0,14594944.0,2451,289,29,"['rock', 'pop', 'foreignbard']"
+529,David Gray,United Kingdom,1147106.0,17835977.0,997,242,37,"['pop', 'rock', 'foreignbard']"
+530,Kelly Rowland,United States,1144591.0,11423591.0,25572,124,19,"['rnb', 'pop', 'dance']"
+531,The Cinematic Orchestra,United Kingdom,1143758.0,27306772.0,6072,94,25,['lounge']
+532,Ray LaMontagne,United States,1143724.0,20252528.0,685,28,0,['foreignbard']
+533,Tracy Chapman,United States,1143047.0,18641230.0,6975,97,10,"['pop', 'folk', 'folkrock']"
+534,The Kills,United Kingdom,1142592.0,39210777.0,7300,102,23,"['alternative', 'rock']"
+535,will.i.am,United States,1139803.0,13161934.0,29064,210,28,['electronics']
+536,Puddle of Mudd,United States,1136337.0,15297317.0,4128,72,8,"['rock', 'alternative', 'numetal']"
+537,Bombay Bicycle Club,United Kingdom,1135587.0,35952270.0,10043,79,17,['indie']
+538,Whitesnake,United Kingdom,1135566.0,19969448.0,92916,322,26,['hardrock']
+539,Robin Thicke,United States,1133258.0,14054066.0,33750,169,22,"['rnb', 'soul', 'pop']"
+540,Antonio Vivaldi,Italy,1133085.0,22924093.0,2106593,50088,3026,"['classical', 'vocal', 'classicalmasterpieces']"
+541,Manu Chao,France,1129481.0,37667739.0,137342,147,23,"['reggae', 'folk', 'ska']"
+542,Bad Religion,United States,1125107.0,67306651.0,22628,282,33,"['punk', 'rock', 'holiday']"
+543,Tame Impala,Australia,1123972.0,72595729.0,66210,89,14,"['alternative', 'rock', 'indie']"
+544,The Mamas & the Papas,United States,1120194.0,11962858.0,11143,90,23,"['pop', 'rock', 'folkrock']"
+545,Rush,Canada,1118852.0,50497090.0,81949,308,48,['prog']
+546,Paolo Nutini,United Kingdom,1118728.0,23642182.0,5100,52,13,"['rock', 'pop']"
+547,Joe Cocker,United Kingdom,1118353.0,12798220.0,165113,293,36,"['rock', 'pop', 'folk']"
+548,Blue Öyster Cult,United States,1117882.0,17316677.0,7184,257,22,['hardrock']
+549,Gavin DeGraw,United States,1116874.0,16045223.0,4362,79,0,"['pop', 'holiday', 'allrock']"
+550,Brian Eno,United Kingdom,1116714.0,35057009.0,12302,322,40,['ambientgenre']
+551,Ennio Morricone,Italy,1115312.0,26054543.0,49005,4737,385,[]
+552,Macklemore & Ryan Lewis,United States,1115213.0,30370405.0,6622,91,8,"['rap', 'soul']"
+553,Steppenwolf,United States,1113834.0,8892568.0,6297,163,21,"['hardrock', 'rock', 'foreignbard']"
+554,of Montreal,United States,1113103.0,50651197.0,1266,33,3,['indie']
+555,Armin van Buuren,Netherlands,1111815.0,35527983.0,1458225,142,16,['trance']
+556,Cher,United States,1109712.0,15975025.0,30615,377,59,"['pop', 'soundtrack', 'rock']"
+557,Simple Minds,United Kingdom,1109651.0,13191593.0,2676,278,42,"['rock', 'pop', 'electronics']"
+558,The Lumineers,United States,1108338.0,26882543.0,237619,67,23,['folkrock']
+559,Yes,United Kingdom,1107909.0,23055414.0,208222,313,50,"['prog', 'rock', 'punk']"
+560,Sugababes,United Kingdom,1106458.0,16748222.0,3253,147,21,['pop']
+561,Def Leppard,United Kingdom,1105206.0,22815895.0,103446,215,34,"['hardrock', 'rock', 'dance']"
+562,UNKLE,United Kingdom,1103883.0,30599830.0,18066,268,40,['triphopgenre']
+563,Alien Ant Farm,United States,1102089.0,12998049.0,7681,62,9,"['rock', 'alternative', 'pop']"
+564,Santigold,United States,1101575.0,27894666.0,2342,74,8,['electronics']
+565,Mudvayne,United States,1099673.0,24922265.0,29704,67,0,['numetal']
+566,Ariana Grande,United States,1098133.0,106673207.0,798435,177,31,['pop']
+567,Diana Krall,Canada,1096367.0,19596536.0,50242,222,20,['vocaljazz']
+568,Yo La Tengo,United States,1094827.0,39134960.0,0,1,0,[]
+569,Tricky,United Kingdom,1094408.0,27941965.0,205571,219,34,['triphopgenre']
+570,alt-J,United Kingdom,1092485.0,67444592.0,169721,63,9,['indie']
+571,Etta James,United States,1089540.0,12901219.0,58327,931,181,['vocaljazz']
+572,Dusty Springfield,United Kingdom,1088580.0,11651838.0,3582,473,65,"['pop', 'jazz', 'estrada']"
+573,Aaliyah,United States,1088389.0,13851624.0,4191,100,10,"['rnb', 'soul', 'pop']"
+574,Chevelle,United States,1088372.0,28034487.0,12403,115,2,['alternativemetal']
+575,Mike Posner,United States,1087914.0,11950886.0,7985,143,14,['pop']
+576,Soulja Boy Tell ’Em,United States,1085641.0,8059881.0,7036,621,142,"['rap', 'foreignrap', 'alternative']"
+577,Seal,United States,1085165.0,13377502.0,17098,248,44,"['pop', 'dance', 'rnb']"
+578,Lamb,United Kingdom,1083420.0,21489003.0,4506,52,5,['triphopgenre']
+579,New Found Glory,United States,1077753.0,36545177.0,8842,163,18,['punk']
+580,The Allman Brothers Band,United States,1075515.0,14955928.0,5334,288,52,"['rock', 'pop', 'blues']"
+581,Bring Me the Horizon,United Kingdom,1074818.0,84134959.0,521801,114,8,['alternativemetal']
+582,Rufus Wainwright,Canada,1073349.0,21974225.0,1618,229,32,"['pop', 'foreignbard', 'rock']"
+583,NOFX,United States,1070018.0,58697749.0,32354,298,32,"['punk', 'rock', 'ska']"
+584,Tom Petty,United States,1068918.0,14242894.0,3099,397,17,"['rock', 'folk', 'pop']"
+585,Carly Rae Jepsen,Canada,1068915.0,31883568.0,19580,123,23,"['pop', 'dance', 'electronics']"
+586,Birdman,United States,1066360.0,5399060.0,3695,289,38,"['rap', 'pop', 'soul']"
+587,Manic Street Preachers,United Kingdom,1064120.0,35901685.0,5049,329,2,"['rock', 'indie', 'alternative']"
+588,Mos Def,United States,1063904.0,22434108.0,6882,150,7,['rap']
+589,Cascada,Germany,1063436.0,20394171.0,13519,236,45,"['dance', 'pop', 'house']"
+590,Supergrass,United Kingdom,1062975.0,14692574.0,1764,132,32,"['pop', 'rock']"
+591,Europe,Sweden,1060033.0,12575721.0,161346,156,16,"['rock', 'hardrock', 'classicmetal']"
+592,Jethro Tull,United Kingdom,1060031.0,28687313.0,21508,543,46,"['rock', 'prog', 'folkrock']"
+593,Survivor,United States,1059680.0,7794177.0,185792,73,2,"['rock', 'hardrock']"
+594,Bastille,United Kingdom,1054768.0,40227116.0,64215,176,37,['indie']
+595,Doves,United Kingdom,1054364.0,18165676.0,3910,94,21,"['pop', 'rock', 'alternative']"
+596,Angus & Julia Stone,Australia,1053313.0,32181979.0,8600,28,3,['indie']
+597,Maxïmo Park,United Kingdom,1052932.0,28077886.0,635,8,2,['indie']
+598,One Direction,United Kingdom,1051806.0,65624657.0,88933,93,2,['pop']
+599,Kool & The Gang,United States,1051747.0,8714988.0,30146,366,60,"['rnb', 'pop', 'soul']"
+600,The Mars Volta,United States,1050586.0,49558516.0,21615,80,12,"['rock', 'alternative', 'prog']"
+601,Roy Orbison,United States,1049727.0,12383506.0,48348,855,183,"['rock', 'pop', 'jazz']"
+602,Erykah Badu,United States,1049675.0,24178101.0,16089,138,21,"['rnb', 'pop', 'rap']"
+603,Mötley Crüe,United States,1049550.0,29407543.0,70066,146,34,['classicmetal']
+604,Jamie Cullum,United Kingdom,1045817.0,20598647.0,5350,198,24,"['jazz', 'pop', 'conjazz']"
+605,HIM,Finland,1043930.0,60923851.0,93767,105,9,['gothicmetal']
+606,Within Temptation,Netherlands,1043062.0,74049321.0,294226,129,32,['epicmetal']
+607,Laura Marling,United Kingdom,1041325.0,29762374.0,2487,99,20,['foreignbard']
+608,Moloko,United Kingdom,1038684.0,18063398.0,6139,128,20,"['pop', 'electronics', 'dance']"
+609,T. Rex,United Kingdom,1037371.0,18606085.0,12812,715,77,"['rock', 'pop', 'alternative']"
+610,Joss Stone,United Kingdom,1036382.0,17229460.0,7194,203,38,"['rnb', 'pop', 'soul']"
+611,N.W.A,United States,1036223.0,11973581.0,30486,58,8,['rap']
+612,John Coltrane,United States,1035377.0,22745928.0,34219,3250,568,['bebopgenre']
+613,Mario,United States,1034711.0,7163539.0,653,114,20,"['rnb', 'soul', 'soundtrack']"
+614,Heart,United States,1034383.0,11876842.0,2855,263,31,"['rock', 'pop', 'hardrock']"
+615,Mac Miller,United States,1034303.0,34475952.0,53124,250,30,"['rap', 'pop', 'soul']"
+616,Ingrid Michaelson,United States,1033097.0,22489233.0,7134,146,30,['foreignbard']
+617,Devendra Banhart,United States,1030749.0,45378478.0,4219,216,26,['foreignbard']
+618,Pavement,United States,1030378.0,44456541.0,1181,208,14,"['alternative', 'rock', 'house']"
+619,Dropkick Murphys,United States,1029979.0,45453631.0,30462,145,10,['punk']
+620,Glee Cast,United States,1029321.0,96192853.0,5725,678,14,"['pop', 'holiday', 'rock']"
+621,Atreyu,United States,1028201.0,37500719.0,4679,92,17,['metalcoregenre']
+622,Steve Miller Band,United States,1026025.0,10374405.0,1756,247,31,"['rock', 'pop', 'blues']"
+623,Bing Crosby,United States,1025244.0,10673211.0,40300,9391,722,['vocaljazz']
+624,LĪVE,United States,1023506.0,16634677.0,1,1,1,['rap']
+625,Elbow,United Kingdom,1022898.0,27007523.0,11523,158,26,['indie']
+626,Carrie Underwood,United States,1019092.0,20021495.0,2426,146,7,"['country', 'holiday', 'rock']"
+627,311,United States,1018360.0,21081732.0,1018,216,9,"['rock', 'alternative', 'rap']"
+628,Digitalism,Germany,1018104.0,22451733.0,2981,81,20,['electronics']
+629,Noah and the Whale,United Kingdom,1018033.0,23461597.0,1262,42,4,['indie']
+630,The Yardbirds,United Kingdom,1017188.0,9513891.0,6912,375,48,"['rock', 'blues', 'rnr']"
+631,Dream Theater,United States,1016271.0,94921460.0,471497,284,26,['progmetal']
+632,Lionel Richie,United States,1015439.0,9342889.0,40745,190,27,"['pop', 'rnb', 'rock']"
+633,Joni Mitchell,Canada,1013449.0,21826891.0,2800,478,60,"['pop', 'rock', 'folk']"
+634,Thom Yorke,United Kingdom,1008148.0,26294059.0,14397,99,18,"['electronics', 'alternative', 'indie']"
+635,RJD2,United States,1007619.0,27369549.0,5584,283,28,"['rap', 'electronics', 'lounge']"
+636,Boys Like Girls,United States,1007451.0,22329655.0,1194,27,0,"['pop', 'alternative']"
+637,Barenaked Ladies,Canada,1006924.0,19962329.0,1156,294,39,['indie']
+638,Enigma,Germany,1005938.0,32842377.0,416995,208,34,['newage']
+639,Flyleaf,United States,1004968.0,30550332.0,21417,64,6,"['alternative', 'rock']"
+640,Echo & The Bunnymen,United Kingdom,1003444.0,17770293.0,2805,173,26,"['rock', 'alternative', 'pop']"
+641,Nancy Sinatra,United States,1003256.0,10092088.0,51919,255,28,"['pop', 'country', 'foreignbard']"
+642,Sinéad O’Connor,Ireland,1002236.0,11366009.0,6157,184,22,"['pop', 'rock', 'folk']"
+643,Birdy,United Kingdom,1001256.0,26368716.0,53844,118,31,"['alternative', 'pop', 'indie']"
+644,Zedd,Germany,1001040.0,21369332.0,77750,126,34,"['dance', 'pop', 'electronics']"
+645,Five Finger Death Punch,United States,1000461.0,41008656.0,694568,129,15,['alternativemetal']
+646,Primal Scream,United Kingdom,999664.0,17058551.0,2678,163,13,['rock']
+647,Trivium,United States,998703.0,47900392.0,40948,151,20,['metalcoregenre']
+648,Chicago,United States,998512.0,11726517.0,4704,521,74,"['rock', 'pop', 'holiday']"
+649,Lamb of God,United States,997802.0,49781470.0,29873,133,14,['thrashmetal']
+650,James Blake,United Kingdom,996847.0,45468934.0,13894,117,24,['bassgenre']
+651,Hooverphonic,Belgium,996769.0,22084340.0,10467,126,9,['triphopgenre']
+652,Broken Bells,United States,995261.0,22573854.0,4147,28,2,"['alternative', 'pop']"
+653,Rilo Kiley,United States,995074.0,33221067.0,249,75,9,"['rock', 'alternative']"
+654,Ladytron,United Kingdom,994029.0,32501385.0,5500,120,17,"['electronics', 'dance', 'rap']"
+655,Sam Cooke,United States,993603.0,15254753.0,69959,1157,294,"['rnb', 'pop', 'soul']"
+656,The Stooges,United States,993490.0,16285409.0,17858,201,25,"['rock', 'hardrock', 'punk']"
+657,Jane’s Addiction,United States,991935.0,12642836.0,1611,84,11,"['rock', 'alternative']"
+658,Trapt,Canada,990618.0,15467341.0,5416,100,22,"['rock', 'alternative']"
+659,Пётр Ильич Чайковский,Russia,990022.0,14454743.0,1271959,51357,4234,[]
+660,My Morning Jacket,United States,989340.0,24882743.0,2459,149,16,"['rock', 'alternative']"
+661,Hinder,United States,987854.0,16115483.0,12553,72,16,"['rock', 'alternative']"
+662,Joshua Radin,United States,987693.0,19661837.0,873,132,24,"['foreignbard', 'folk', 'rock']"
+663,Shaggy,Jamaica,987245.0,7498851.0,288179,520,102,"['reggae', 'pop', 'dance']"
+664,Selena Gomez & The Scene,United States,987180.0,19293669.0,9924,39,11,['pop']
+665,Nouvelle Vague,France,986528.0,30938881.0,5528,145,17,"['pop', 'alternative', 'electronics']"
+666,Disclosure,United Kingdom,985394.0,32048778.0,15310,139,40,"['electronics', 'dance', 'rnb']"
+667,Jay Sean,United Kingdom,984494.0,9518829.0,1023488,161,39,"['pop', 'soul', 'dance']"
+668,Tina Turner,United States,983903.0,9986962.0,54960,752,59,"['pop', 'rnb', 'soul']"
+669,Nicole Scherzinger,United States,983348.0,12883036.0,80054,86,13,"['pop', 'rock', 'rap']"
+670,Lauryn Hill,United States,981985.0,13204641.0,170,1,0,[]
+671,Selena Gomez,United States,980214.0,39534780.0,498682,136,26,"['pop', 'dance', 'alternative']"
+672,Lady Antebellum,United States,979874.0,14896242.0,3824,178,24,"['country', 'dance', 'holiday']"
+673,Elvis Costello,United Kingdom,979766.0,18103106.0,1489,697,55,"['rock', 'pop', 'jazz']"
+674,Frou Frou,United Kingdom,977763.0,16220375.0,790,15,3,['pop']
+675,Far East Movement,United States,975724.0,11877264.0,43967,85,29,['edmgenre']
+676,City and Colour,Canada,975519.0,50364751.0,4179,97,21,['indie']
+677,AWOLNATION,United States,974807.0,18177759.0,80129,113,15,"['alternative', 'rock', 'dance']"
+678,Willie Nelson,United States,974685.0,11596864.0,6513,1779,172,"['country', 'pop', 'estrada']"
+679,Guano Apes,Germany,973874.0,30868018.0,190451,89,1,"['alternative', 'rock', 'numetal']"
+680,Eddie Vedder,United States,973543.0,30639682.0,3892,79,8,"['rock', 'soundtrack', 'alternative']"
+681,Clap Your Hands Say Yeah,United States,971302.0,19746865.0,404,103,8,"['alternative', 'rock', 'indie']"
+682,Herbie Hancock,United States,970797.0,12674444.0,14709,815,100,"['jazz', 'pop', 'tradjazz']"
+683,Theory of a Deadman,Canada,969426.0,18271818.0,63539,103,21,"['rock', 'dance', 'alternative']"
+684,The Red Jumpsuit Apparatus,United States,969387.0,21009350.0,6592,43,17,['alternative']
+685,Thin Lizzy,Ireland,967760.0,17651483.0,5999,196,27,"['rock', 'hardrock']"
+686,Jeremih,United States,966028.0,8608113.0,30864,340,73,['rnb']
+687,Will Smith,United States,965982.0,8327907.0,16268,83,4,"['rap', 'pop', 'rnb']"
+688,Télépopmusik,France,963111.0,14233789.0,4130,94,21,['lounge']
+689,Claude Debussy,France,962761.0,13906138.0,189786,31361,3263,[]
+690,Gossip,United States,961280.0,22032366.0,3122,101,12,['indie']
+691,St. Vincent,United States,960809.0,36168735.0,6489,159,25,['indie']
+692,Silverchair,Australia,959896.0,20089423.0,1458,68,4,"['indie', 'rock', 'alternative']"
+693,Hilary Duff,United States,958858.0,20258196.0,7970,82,6,"['pop', 'holiday']"
+694,Ace of Base,Sweden,958454.0,11853697.0,212102,201,30,"['pop', 'dance', 'electronics']"
+695,The Subways,United Kingdom,956784.0,22422855.0,32224,82,15,"['alternative', 'rock', 'indie']"
+696,Friendly Fires,United Kingdom,956667.0,20137085.0,1149,75,21,"['electronics', 'dance', 'alternative']"
+697,James Taylor,United States,955182.0,13464993.0,614,943,69,"['rock', 'classical', 'pop']"
+698,B.B. King,United States,953664.0,15020608.0,595544,1622,331,"['blues', 'rnb', 'jazz']"
+699,Xzibit,United States,953197.0,8322837.0,35709,260,14,"['rap', 'pop', 'rnb']"
+700,Sam Smith,United Kingdom,952286.0,27985845.0,406854,135,42,"['pop', 'electronics', 'dance']"
+701,Cobra Starship,United States,950435.0,25159407.0,1205,59,16,"['pop', 'dance', 'alternative']"
+702,*NSYNC,United States,949966.0,12684440.0,9643,78,1,['pop']
+703,Violent Femmes,United States,949955.0,14093141.0,914,113,11,"['rock', 'alternative', 'pop']"
+704,Shania Twain,Canada,949638.0,12452412.0,6174,124,23,['pop']
+705,The Isley Brothers,United States,949359.0,7935413.0,6692,586,81,"['rnb', 'pop', 'soul']"
+706,The Vines,Australia,949278.0,14853568.0,2554,69,10,"['pop', 'rock', 'alternative']"
+707,Children of Bodom,Finland,948694.0,65598245.0,50194,131,20,['deathmetal']
+708,Tony Bennett,United States,946946.0,8278465.0,13943,1945,326,['vocaljazz']
+709,The Pretenders,United Kingdom,946648.0,9101639.0,1515,203,24,"['rock', 'pop', 'electronics']"
+710,3OH!3,United States,946262.0,29016102.0,4865,114,26,['electronics']
+711,A$AP Rocky,United States,944710.0,44865184.0,694992,212,15,"['rap', 'pop', 'rnb']"
+712,Blind Melon,United States,944524.0,12283587.0,388,55,12,"['pop', 'alternative', 'rock']"
+713,Chamillionaire,United States,943618.0,9761659.0,15560,450,35,"['rap', 'pop']"
+714,Babyshambles,United Kingdom,943068.0,24467039.0,4187,66,13,['indie']
+715,Kraftwerk,Germany,941840.0,25360577.0,14693,138,20,['electronics']
+716,Portugal. The Man,United States,941251.0,36459586.0,121507,164,28,"['alternative', 'indie', 'dance']"
+717,Bowling for Soup,United States,940333.0,17106658.0,2039,210,22,"['pop', 'rock', 'alternative']"
+718,The Tallest Man on Earth,Sweden,939988.0,32984540.0,868,97,17,"['alternative', 'folk', 'pop']"
+719,Gang Starr,United States,935198.0,18442410.0,4143,154,11,['rap']
+720,Dolly Parton,United States,934924.0,10441870.0,12415,851,58,"['country', 'pop', 'holiday']"
+721,The Drums,United States,933703.0,22611639.0,19945,101,22,['indie']
+722,Sixpence None the Richer,United States,933265.0,8876099.0,2152,81,13,"['pop', 'rock']"
+723,The Cars,United States,929476.0,11165600.0,7555,102,20,"['rock', 'pop', 'alternative']"
+724,Hole,United States,929370.0,19574294.0,9236,73,8,"['alternative', 'rock', 'pop']"
+725,Saliva,United States,929233.0,12044695.0,193171,116,15,['numetal']
+726,Childish Gambino,United States,928843.0,50698684.0,60366,109,10,"['rap', 'soul', 'dance']"
+727,Passenger,Sweden,928517.0,19998736.0,59695,146,18,['foreignbard']
+728,The Maccabees,United Kingdom,928114.0,22253679.0,4169,66,7,['indie']
+729,t.A.T.u.,Russia,926338.0,24282244.0,270964,67,12,['ruspop']
+730,Dio,United States,926332.0,23886537.0,42684,166,17,['classicmetal']
+731,Buffalo Springfield,United States,925879.0,8338244.0,12408,68,7,['folkrock']
+732,Caribou,Canada,925732.0,29522583.0,3639,95,11,"['electronics', 'idmgenre', 'alternative']"
+733,Motion City Soundtrack,United States,924881.0,31106367.0,509,86,9,"['alternative', 'rock', 'punk']"
+734,Howie Day,United States,924709.0,9301837.0,622,54,5,"['pop', 'rock', 'foreignbard']"
+735,Ben Folds,United States,922831.0,25559418.0,236,146,6,"['rock', 'pop', 'animated']"
+736,Collective Soul,United States,921407.0,11678437.0,803,103,10,"['pop', 'rock', 'indie']"
+737,Bonnie Tyler,United Kingdom,919639.0,7499260.0,22363,267,22,"['pop', 'rock', 'electronics']"
+738,The Naked and Famous,New Zealand,919510.0,25176184.0,11435,103,15,"['alternative', 'indie', 'pop']"
+739,Lloyd Banks,United States,919410.0,6672231.0,17733,212,18,"['rap', 'foreignrap', 'folk']"
+740,Toni Braxton,United States,918419.0,8933190.0,24831,136,18,['pop']
+741,Ludovico Einaudi,Italy,918197.0,37319220.0,472649,355,38,['modern']
+742,The Last Shadow Puppets,United Kingdom,917087.0,28721761.0,7371,36,4,['alternative']
+743,Four Tet,United Kingdom,916462.0,28210897.0,5243,222,35,['idmgenre']
+744,Rancid,United States,916239.0,36381741.0,297804,200,12,"['punk', 'rock', 'ska']"
+745,Tinie Tempah,United Kingdom,916147.0,11184172.0,9972,145,34,"['rap', 'dance', 'pop']"
+746,Savage Garden,Australia,916122.0,12654221.0,11748,38,0,['pop']
+747,The Presidents of the United States of America,United States,912784.0,10859192.0,510,45,1,"['rock', 'pop', 'alternative']"
+748,Everclear,United States,912304.0,10930249.0,1268,158,18,"['rock', 'alternative', 'punk']"
+749,The Human League,United Kingdom,912090.0,9493818.0,1488,164,23,"['pop', 'house', 'dance']"
+750,Vanessa Carlton,United States,909800.0,11017213.0,567,75,18,['foreignbard']
+751,Nada Surf,United States,909099.0,20620816.0,688,133,21,['indie']
+752,Soft Cell,United Kingdom,908895.0,7124514.0,2000,135,25,"['pop', 'electronics', 'dance']"
+753,CeeLo Green,United States,908642.0,11683956.0,3706,266,35,['rap']
+754,My Bloody Valentine,Ireland,907615.0,43772392.0,7205,52,4,['alternative']
+755,The Zombies,United Kingdom,904656.0,13818903.0,21847,159,19,"['rock', 'pop', 'foreignbard']"
+756,Emilíana Torrini,Iceland,904555.0,19196564.0,6485,100,16,['foreignbard']
+757,The Doobie Brothers,United States,904279.0,9199510.0,1364,192,30,"['rock', 'pop', 'foreignbard']"
+758,Curren$y,United States,903039.0,12570892.0,1479,797,96,"['rap', 'soul']"
+759,Jordin Sparks,United States,902941.0,10565663.0,1215,99,12,"['pop', 'dance', 'soul']"
+760,The Streets,United Kingdom,902850.0,24341614.0,1800,157,38,['ukgaragegenre']
+761,The Calling,United States,901118.0,9361023.0,2536,26,0,"['rock', 'pop', 'holiday']"
+762,Biffy Clyro,United Kingdom,899283.0,40825741.0,10005,212,43,"['alternative', 'rock']"
+763,Nightmares on Wax,United Kingdom,897700.0,15287821.0,1548,18,6,['triphopgenre']
+764,Switchfoot,United States,897405.0,23229080.0,3499,171,24,"['alternative', 'rock', 'electronics']"
+765,Christina Perri,United States,897164.0,12981717.0,12645,93,17,"['pop', 'children', 'holiday']"
+766,Local Natives,United States,896017.0,23913300.0,1052,86,18,['indie']
+767,The Hollies,United Kingdom,895923.0,7594402.0,4112,459,53,"['pop', 'rock', 'foreignbard']"
+768,Architecture in Helsinki,Australia,895765.0,24584574.0,605,53,6,['indie']
+769,Amy Macdonald,United Kingdom,894101.0,22865491.0,78823,83,16,"['pop', 'rock', 'foreignbard']"
+770,Velvet Revolver,United States,893685.0,14145934.0,2537,35,2,['hardrock']
+771,Diana Ross,United States,892436.0,7491326.0,52182,736,75,"['pop', 'rnb', 'soul']"
+772,Grateful Dead,United States,891404.0,30941695.0,3857,888,177,"['rock', 'foreignbard', 'folkrock']"
+773,Hozier,Ireland,890930.0,22980157.0,227905,52,11,['indie']
+774,Duke Ellington,United States,890303.0,12486405.0,73522,8087,1046,['tradjazz']
+775,Katie Melua,United Kingdom,888412.0,22587371.0,113856,156,22,['vocaljazz']
+776,Patti Smith,United States,887879.0,15720322.0,5114,216,8,"['rock', 'alternative', 'pop']"
+777,Hot Hot Heat,Canada,887012.0,15443057.0,1053,75,13,"['alternative', 'rock', 'rnr']"
+778,Sepultura,Brazil,886301.0,36887869.0,60617,274,26,['thrashmetal']
+779,Crossfade,United States,885594.0,12271671.0,3394,31,1,"['alternative', 'rock']"
+780,Fuel,United States,885458.0,9983264.0,0,0,0,[]
+781,The Rapture,United States,884662.0,14768564.0,2962,37,5,"['pop', 'rock', 'indie']"
+782,Franz Schubert,Austria,883934.0,8908940.0,138322,59576,4783,"['classical', 'classicalmasterpieces', 'pop']"
+783,Styx,United States,883192.0,9654302.0,7971,205,27,['hardrock']
+784,Misfits,United States,882056.0,55415732.0,92325,152,11,"['punk', 'rock', 'hardcore']"
+785,Machine Head,United States,881138.0,33659976.0,30014,131,22,['thrashmetal']
+786,Parov Stelar,Austria,879891.0,37838489.0,164168,243,53,['lounge']
+787,Howard Shore,Canada,878640.0,40214639.0,6771,1046,78,"['films', 'soundtrack', 'classical']"
+788,Nero,United Kingdom,877954.0,18686091.0,63372,77,17,['electronics']
+789,Buddy Holly,United States,877672.0,11537106.0,77213,1184,254,"['rock', 'rnr', 'pop']"
+790,Public Enemy,United States,876592.0,13751103.0,14365,331,37,"['rap', 'foreignrap', 'dance']"
+791,Annie Lennox,United Kingdom,875948.0,9733484.0,11578,207,4,"['pop', 'holiday', 'dance']"
+792,Mobb Deep,United States,873932.0,14308330.0,15714,216,10,"['rap', 'foreignrap', 'rnb']"
+793,Coolio,United States,873079.0,5185422.0,55467,174,23,"['rap', 'pop', 'house']"
+794,The Darkness,United Kingdom,872981.0,12529079.0,2310,63,18,['hardrock']
+795,Frank Wilson,United States,872282.0,8576772.0,8,26,0,[]
+796,Grimes,Canada,870978.0,55570304.0,40937,102,12,"['electronics', 'alternative', 'pop']"
+797,Mando Diao,Sweden,869796.0,34179220.0,18009,244,46,"['pop', 'rock', 'folk']"
+798,Angels & Airwaves,United States,869778.0,31976708.0,11240,85,14,"['alternative', 'rock', 'dance']"
+799,CSS,Brazil,868761.0,23840633.0,70,31,7,['rusrap']
+800,Anthrax,United States,868753.0,25949058.0,30393,192,30,['thrashmetal']
+801,Hollywood Undead,United States,868729.0,41542028.0,433836,130,15,['alternativemetal']
+802,Silversun Pickups,United States,868099.0,26660315.0,4303,57,15,['alternative']
+803,Sly & the Family Stone,United States,867554.0,10207121.0,5858,280,29,"['rnb', 'soul', 'funk']"
+804,Chris Cornell,United States,866970.0,14491524.0,8356,99,13,"['rock', 'pop', 'alternative']"
+805,Peggy Lee,United States,866585.0,6524623.0,153523,3435,478,['vocaljazz']
+806,ATB,Germany,866288.0,25751861.0,575315,253,59,['trance']
+807,Rainbow,United Kingdom,865720.0,17833437.0,175145,130,26,"['hardrock', 'rock']"
+808,Donna Summer,United States,864822.0,8838002.0,179325,343,37,"['pop', 'electronics', 'dance']"
+809,America,United States,864391.0,9987876.0,1112,258,46,"['rock', 'pop', 'holiday']"
+810,Philip Glass,United States,863682.0,20932218.0,10433,319,38,"['classical', 'films', 'pop']"
+811,Escape the Fate,United States,863609.0,32977002.0,280884,102,14,['posthardcore']
+812,De La Soul,United States,863599.0,16239492.0,6195,225,23,['foreignrap']
+813,Waka Flocka Flame,United States,863458.0,8013936.0,18809,823,75,"['rap', 'dance', 'foreignrap']"
+814,Rascal Flatts,United States,863015.0,12791713.0,866,190,24,"['country', 'pop']"
+815,Chet Baker,United States,862573.0,17744521.0,44229,3907,634,['bebopgenre']
+816,Athlete,United Kingdom,862403.0,12316694.0,4143,80,17,"['pop', 'rock', 'alternative']"
+817,Finger Eleven,Canada,862187.0,11826344.0,4095,74,10,"['alternative', 'rock']"
+818,The Album Leaf,United States,860881.0,23246353.0,29179,253,27,"['alternative', 'electronics', 'soundtrack']"
+819,Amon Tobin,Brazil,860603.0,26644754.0,4674,213,39,"['electronics', 'alternative', 'videogame']"
+820,Brandy,United States,859521.0,10106683.0,5362,219,34,"['rap', 'rnb', 'pop']"
+821,The Monkees,United States,859229.0,8700450.0,2436,271,37,"['pop', 'rock', 'holiday']"
+822,Ashlee Simpson,United States,858913.0,11968772.0,730,49,9,['pop']
+823,Jack White,United States,858729.0,21783570.0,19317,73,9,"['alternative', 'rock', 'soundtrack']"
+824,Eagle‐Eye Cherry,Sweden,858330.0,6760219.0,1682,93,16,"['pop', 'rock', 'dance']"
+825,Anberlin,United States,857388.0,38964144.0,9940,116,18,"['alternative', 'rock', 'indie']"
+826,Jewel,United States,856428.0,10845855.0,434,250,33,['pop']
+827,JoJo,United States,854373.0,11735578.0,1404,220,43,"['rnb', 'pop', 'rap']"
+828,As I Lay Dying,United States,853478.0,43390598.0,26903,102,10,['metalcoregenre']
+829,The Veronicas,Australia,853215.0,20412727.0,3443,79,14,"['pop', 'dance', 'alternative']"
+830,Simply Red,United Kingdom,852272.0,11288138.0,8701,188,21,"['pop', 'relax']"
+831,Dope,United States,851222.0,20062330.0,153810,108,8,['numetal']
+832,UB40,United Kingdom,849406.0,9610849.0,56305,341,48,"['reggae', 'pop', 'dub']"
+833,Grouplove,United States,849227.0,14413569.0,5037,108,26,['indie']
+834,Semisonic,United States,849221.0,7104677.0,1053,51,5,"['rock', 'pop']"
+835,Fever Ray,Sweden,848918.0,25208095.0,8711,9,1,"['alternative', 'electronics']"
+836,Ben Howard,United Kingdom,848835.0,29419898.0,16017,67,12,"['foreignbard', 'folk']"
+837,Men at Work,Australia,848820.0,7689650.0,1403,40,2,"['pop', 'rock', 'electronics']"
+838,Donovan,United Kingdom,848518.0,10817444.0,2438,414,47,"['rock', 'pop', 'folk']"
+839,Craig David,United Kingdom,847636.0,10340221.0,55645,169,15,"['pop', 'dance', 'rnb']"
+840,Metronomy,United Kingdom,847332.0,32172305.0,12761,146,39,"['electronics', 'alternative', 'indie']"
+841,Bob Sinclar,France,847186.0,7854983.0,33246,275,66,"['dance', 'house', 'electronics']"
+842,Brad Paisley,United States,846511.0,12044872.0,1455,237,3,"['country', 'holiday']"
+843,Siouxsie and the Banshees,United Kingdom,846169.0,22229130.0,45316,152,15,"['rock', 'punk']"
+844,The Crystal Method,United States,845282.0,16904325.0,24562,194,30,['breakbeatgenre']
+845,Danny Elfman,United States,844994.0,19044534.0,3677,1042,47,"['films', 'soundtrack', 'alternative']"
+846,Story of the Year,United States,844932.0,20857870.0,59526,78,9,['posthardcore']
+847,Clint Mansell,United Kingdom,844887.0,27237084.0,5843,333,22,"['films', 'soundtrack']"
+848,The Vaccines,United Kingdom,843725.0,24397134.0,7196,100,3,"['indie', 'alternative', 'rock']"
+849,Curtis Mayfield,United States,843266.0,10218580.0,3052,236,34,"['rnb', 'soul', 'soundtrack']"
+850,Clean Bandit,United Kingdom,842709.0,17670405.0,472742,138,37,"['dance', 'electronics', 'pop']"
+851,Everything but the Girl,United Kingdom,842322.0,10812549.0,3099,191,20,"['pop', 'dance', 'rock']"
+852,Sneaker Pimps,United Kingdom,841862.0,15360287.0,4203,99,18,['triphopgenre']
+853,Burial,United Kingdom,841841.0,37078755.0,15815,78,20,['bassgenre']
+854,Pixie Lott,United Kingdom,841723.0,12378388.0,2810,92,21,"['pop', 'dance', 'soundtrack']"
+855,Matt & Kim,United States,841067.0,17904840.0,1296,74,19,['indie']
+856,Kenny Chesney,United States,840917.0,11641283.0,3817,134,5,"['country', 'holiday']"
+857,Yeasayer,United States,838204.0,24747645.0,688,34,5,"['alternative', 'rock', 'electronics']"
+858,The Jesus and Mary Chain,United Kingdom,836818.0,26225664.0,3667,149,8,"['alternative', 'rock']"
+859,Carpenters,United States,836727.0,12008093.0,1986,245,26,"['pop', 'holiday', 'rock']"
+860,The Lonely Island,United States,836679.0,27154752.0,3755,90,7,"['foreignrap', 'soundtrack']"
+861,Deerhunter,United States,835882.0,39954780.0,1883,94,13,['indie']
+862,The Bangles,United States,835807.0,6663116.0,1688,99,10,"['rock', 'pop', 'alternative']"
+863,Simian Mobile Disco,United Kingdom,835762.0,14556444.0,679,44,11,"['pop', 'electronics', 'house']"
+864,Barry White,United States,835725.0,9048808.0,39695,310,63,"['rnb', 'soul', 'estrada']"
+865,Mazzy Star,United States,835718.0,17613240.0,7357,52,6,"['alternative', 'indie', 'pop']"
+866,Ra Ra Riot,United States,834003.0,13540968.0,479,56,11,['indie']
+867,Vangelis,Greece,832772.0,20763780.0,16357,327,34,['newage']
+868,Boney M.,Germany,832560.0,8374694.0,824590,200,7,"['pop', 'estrada', 'dance']"
+869,M. Ward,United States,831315.0,20176848.0,148,102,11,"['alternative', 'jazz', 'country']"
+870,Camera Obscura,United Kingdom,830764.0,24349920.0,574,56,10,"['alternative', 'pop', 'rock']"
+871,Hard‐Fi,United Kingdom,830681.0,11496159.0,1342,50,17,"['rock', 'alternative', 'indie']"
+872,Take That,United Kingdom,830652.0,15103164.0,7687,152,22,"['pop', 'dance']"
+873,"Crosby, Stills, Nash & Young",United States,830602.0,10094523.0,1145,170,9,['folkrock']
+874,Kavinsky,France,829858.0,14119093.0,29649,34,7,['electronics']
+875,Johannes Brahms,Germany,829230.0,8709682.0,138394,58021,4916,"['classical', 'classicalmasterpieces', 'pop']"
+876,Roxy Music,United Kingdom,829178.0,13792113.0,14101,107,27,"['pop', 'rock', 'newwave']"
+877,Eric Prydz,Sweden,828703.0,6720470.0,14324,42,6,"['dance', 'electronics', 'house']"
+878,Neil Diamond,United States,828576.0,9721523.0,1490,537,67,"['pop', 'rock', 'holiday']"
+879,Alphaville,Germany,828389.0,9332399.0,28063,182,25,"['pop', 'electronics']"
+880,Thrice,United States,828111.0,39175139.0,3,25,1,['jazz']
+881,Phantom Planet,United States,827643.0,9531303.0,475,63,5,"['alternative', 'rock', 'pop']"
+882,Coheed and Cambria,United States,826877.0,48991360.0,13808,122,10,"['prog', 'rock', 'alternative']"
+883,Alkaline Trio,United States,826113.0,46135221.0,4020,151,18,['punk']
+884,CocoRosie,United States,825347.0,33681716.0,3639,64,7,['indie']
+885,Flogging Molly,United States,825250.0,32686972.0,4327,41,6,['punk']
+886,Martin Solveig,France,825216.0,8293523.0,54062,160,43,"['dance', 'electronics', 'house']"
+887,The Corrs,Ireland,825165.0,14879782.0,1076,134,19,"['pop', 'holiday']"
+888,Tokyo Police Club,Canada,825117.0,20825970.0,987,81,11,['indie']
+889,Lloyd,United States,825103.0,5566003.0,1965,383,70,"['rap', 'soul', 'rnb']"
+890,The Coral,United Kingdom,823747.0,12566603.0,2045,152,7,"['indie', 'pop', 'alternative']"
+891,Alter Bridge,United States,822978.0,28757546.0,8996,108,13,"['rock', 'alternative']"
+892,Mike Oldfield,United Kingdom,821843.0,21454298.0,10906,317,34,['newage']
+893,Damian Marley,Jamaica,821726.0,13295601.0,117392,161,18,"['reggae', 'rap', 'electronics']"
+894,Mastodon,United States,821681.0,50230298.0,276307,122,21,['progmetal']
+895,hellogoodbye,United States,819558.0,18471792.0,476,103,16,"['rock', 'pop', 'alternative']"
+896,Daniel Powter,Canada,818831.0,6764854.0,2908,47,11,"['pop', 'dance', 'japanesepop']"
+897,Wolf Parade,Canada,818461.0,19887727.0,870,66,8,"['indie', 'alternative', 'rock']"
+898,Built to Spill,United States,817894.0,23227354.0,1104,126,18,"['alternative', 'rock', 'indie']"
+899,Tom Jones,United Kingdom,817560.0,7234766.0,22226,664,73,['estrada']
+900,Little Dragon,Sweden,817339.0,19905912.0,2188,137,35,"['electronics', 'pop', 'dance']"
+901,Ginuwine,United States,816829.0,5378873.0,2535,115,4,"['rnb', 'pop', 'dance']"
+902,The Wallflowers,United States,815676.0,8580227.0,784,95,12,"['rock', 'pop', 'alternative']"
+903,Erik Satie,France,815460.0,17111408.0,56476,11701,1054,"['classical', 'pop', 'classicalmasterpieces']"
+904,All That Remains,United States,814234.0,30094829.0,12218,100,10,['metalcoregenre']
+905,Omarion,United States,814012.0,5033185.0,2744,137,16,"['rnb', 'pop', 'rap']"
+906,Orbital,United Kingdom,813815.0,14655670.0,7979,170,33,['idmgenre']
+907,Serj Tankian,United States,813407.0,30320566.0,114387,307,33,"['rock', 'classical', 'films']"
+908,Suede,United Kingdom,813371.0,20446769.0,4298,230,37,"['rock', 'pop']"
+909,Blonde Redhead,United States,812628.0,26491157.0,6943,134,20,['indie']
+910,The Jam,United Kingdom,810471.0,14386350.0,1365,165,16,['rock']
+911,Dinosaur Jr.,United States,809337.0,25181343.0,2046,160,20,"['alternative', 'rock', 'indie']"
+912,Derek and the Dominos,United States,808424.0,6527691.0,14020,39,5,"['rock', 'blues', 'pop']"
+913,Macy Gray,United States,807791.0,7808363.0,3599,189,26,"['pop', 'rnb', 'soul']"
+914,Erasure,United Kingdom,807776.0,12023330.0,5908,425,49,"['pop', 'folk', 'electronics']"
+915,Chromeo,Canada,807704.0,16981667.0,17442,187,34,['disco']
+916,Jem,United Kingdom,807287.0,10136535.0,3504,44,5,"['pop', 'electronics']"
+917,Goldfinger,United States,806110.0,14662222.0,4449,118,5,"['punk', 'alternative', 'rock']"
+918,Stevie Ray Vaughan,United States,806065.0,10227592.0,22569,173,13,"['rock', 'blues', 'soul']"
+919,Dead Kennedys,United States,805379.0,21747166.0,15000,109,16,"['rock', 'punk']"
+920,Talib Kweli,United States,805080.0,12819043.0,3473,539,68,"['rap', 'foreignrap', 'soul']"
+921,Opeth,Sweden,805079.0,78763479.0,58300,131,19,['progmetal']
+922,Four Tops,United States,804367.0,6944217.0,1798,527,69,"['rnb', 'pop', 'soul']"
+923,The Stranglers,United Kingdom,803577.0,10511215.0,44500,311,34,"['pop', 'rock', 'newwave']"
+924,Young the Giant,United States,803501.0,15387210.0,8921,57,10,['indie']
+925,Chase & Status,United Kingdom,803244.0,19437833.0,82996,141,31,['dnb']
+926,Muddy Waters,United States,803038.0,11459992.0,43404,1599,266,"['blues', 'jazz', 'pop']"
+927,Crowded House,Australia,802783.0,11612358.0,1962,169,17,"['rock', 'pop', 'electronics']"
+928,Adema,United States,802428.0,13680091.0,4951,41,2,['numetal']
+929,John Lee Hooker,United States,801774.0,10553416.0,113186,1956,443,"['blues', 'jazz', 'pop']"
+930,G-Unit,United States,801091.0,5179365.0,21192,96,7,"['rap', 'pop', 'foreignrap']"
+931,Starsailor,United Kingdom,800900.0,10737063.0,3022,65,15,['indie']
+932,Aloe Blacc,United States,800541.0,9825142.0,335860,317,62,"['dance', 'pop', 'rap']"
+933,Anti‐Flag,United States,800131.0,27510523.0,32129,208,22,['punk']
+934,Ashanti,United States,800044.0,6072960.0,12110,220,32,"['rnb', 'soul', 'rap']"
+935,Obie Trice,United States,798234.0,4440967.0,14712,144,20,"['rap', 'foreignrap', 'pop']"
+936,Matisyahu,United States,797870.0,19160066.0,46335,138,22,['reggae']
+937,Bone Thugs‐n‐Harmony,United States,797196.0,10966617.0,1406,545,46,"['rap', 'foreignrap', 'dance']"
+938,Boyz II Men,United States,795013.0,7064630.0,11073,210,23,"['rnb', 'rap', 'holiday']"
+939,Bow Wow,United States,794885.0,4086015.0,718,99,16,"['rap', 'pop', 'rock']"
+940,The Chainsmokers,United States,794664.0,20883591.0,202558,91,7,['edmgenre']
+941,Lacuna Coil,Italy,794072.0,39157731.0,46206,128,0,['alternativemetal']
+942,Spin Doctors,United States,793818.0,4988286.0,536,61,3,"['pop', 'rock', 'reggae']"
+943,George Frideric Handel,United Kingdom,793405.0,10770037.0,199977,65203,3056,"['classical', 'classicalmasterpieces', 'holiday']"
+944,Suzanne Vega,United States,793213.0,10156684.0,4968,158,26,"['rock', 'pop', 'folk']"
+945,The Walkmen,United States,792997.0,17450173.0,505,99,11,"['alternative', 'pop', 'rock']"
+946,Porcupine Tree,United Kingdom,791479.0,75683182.0,25900,178,23,"['rock', 'prog']"
+947,Miguel,United States,791346.0,13711289.0,56756,220,21,"['rnb', 'rap', 'country']"
+948,Twisted Sister,United States,791046.0,9069827.0,45701,115,19,"['classicmetal', 'rock', 'hardrock']"
+949,Death From Above,Canada,788512.0,23654459.0,2680,47,12,"['alternative', 'rock']"
+950,Olly Murs,United Kingdom,787770.0,12971888.0,20122,111,2,"['pop', 'dance', 'electronics']"
+951,The Neighbourhood,United States,787561.0,31254854.0,460620,87,1,['indie']
+952,The Pogues,United Kingdom,787183.0,15256515.0,1803,180,20,['folkrock']
+953,The Futureheads,United Kingdom,784419.0,10454251.0,598,72,12,"['rock', 'alternative', 'prog']"
+954,Matt Nathanson,United States,784333.0,11135180.0,947,175,23,['indie']
+955,Chris Isaak,United States,784279.0,10184482.0,339196,201,16,"['rock', 'pop', 'holiday']"
+956,Amos Lee,United States,784031.0,11079666.0,853,151,24,"['foreignbard', 'folkrock', 'jazz']"
+957,Tycho,United States,781150.0,26571024.0,5575,103,29,['idmgenre']
+958,She & Him,United States,780799.0,30933296.0,2072,88,8,"['pop', 'alternative', 'rock']"
+959,Icona Pop,Sweden,780473.0,12163396.0,4891,130,38,"['pop', 'dance', 'electronics']"
+960,Cheap Trick,United States,780086.0,8125556.0,1786,264,16,"['rock', 'hardrock', 'punk']"
+961,Eagles of Death Metal,United States,779477.0,20650632.0,4617,58,7,"['rock', 'holiday', 'alternative']"
+962,Max Richter,United Kingdom,779398.0,26616025.0,30055,668,61,[]
+963,Gary Jules,United States,779068.0,8235459.0,1303,18,2,"['alternative', 'folkrock']"
+964,Dizzee Rascal,United Kingdom,776859.0,12994975.0,9341,186,37,"['rap', 'dance', 'pop']"
+965,Lindsay Lohan,United States,775568.0,9302492.0,1902,34,6,"['pop', 'dance']"
+966,Madness,United Kingdom,775221.0,12849108.0,6567,246,24,"['ska', 'pop', 'rnb']"
+967,Frank Zappa,United States,774733.0,36625207.0,6463,1580,121,"['rock', 'prog', 'modern']"
+968,Washed Out,United States,772359.0,24627308.0,2115,70,16,"['electronics', 'alternative', 'rap']"
+969,Keith Urban,Australia,771752.0,11724230.0,1424,155,23,"['pop', 'country', 'dance']"
+970,Sugarcult,United States,771578.0,12690151.0,922,41,4,"['alternative', 'rock']"
+971,Infected Mushroom,United States,771012.0,40345567.0,278560,201,59,['trance']
+972,Ólafur Arnalds,Iceland,770878.0,25793241.0,20638,217,43,['modern']
+973,Cam’ron,United States,770845.0,6672334.0,290,462,45,[]
+974,Meat Loaf,United States,770339.0,10772638.0,2897,204,23,"['rock', 'pop']"
+975,Jamie Foxx,United States,769525.0,5621047.0,542,158,3,['rnb']
+976,Commodores,United States,769250.0,5133784.0,19705,180,35,"['rnb', 'pop', 'funk']"
+977,Chiddy Bang,United States,768523.0,9414875.0,372,94,24,"['rap', 'edmgenre', 'pop']"
+978,Alexi Murdoch,United Kingdom,768446.0,9616660.0,1916,22,4,"['alternative', 'folkrock']"
+979,The Moody Blues,United Kingdom,768341.0,10083951.0,5283,290,35,"['rock', 'pop', 'prog']"
+980,Devo,United States,768284.0,13981667.0,27032,132,14,"['rock', 'alternative', 'electronics']"
+981,Vance Joy,Australia,768178.0,13332187.0,259578,45,14,['foreignbard']
+982,The Rasmus,Finland,767792.0,21116575.0,625766,139,36,['alternative']
+983,John Denver,United States,767531.0,7719351.0,30860,402,22,"['country', 'foreignbard', 'rock']"
+984,Charli XCX,United Kingdom,766678.0,30079682.0,57442,226,49,"['pop', 'dance', 'electronics']"
+985,Michelle Branch,United States,766234.0,10667056.0,299,63,6,['pop']
+986,Antony and the Johnsons,United Kingdom,766152.0,23775714.0,3212,69,15,['indie']
+987,The 1975,United Kingdom,764165.0,35122478.0,25383,95,20,['indie']
+988,Aqualung,United Kingdom,762723.0,9976421.0,496,99,18,"['alternative', 'pop']"
+989,Madeleine Peyroux,United States,762696.0,11288155.0,3658,131,11,['vocaljazz']
+990,Flying Lotus,United States,761653.0,44368275.0,4456,32,4,['bassgenre']
+991,twenty one pilots,United States,761227.0,48039584.0,1407474,67,12,['indie']
+992,Adam Lambert,United States,761068.0,24958234.0,38046,139,17,"['pop', 'rock', 'dance']"
+993,Method Man,United States,760232.0,9360117.0,17599,437,39,['rap']
+994,Estelle,United Kingdom,759631.0,6913812.0,3271,228,41,"['soul', 'pop', 'rnb']"
+995,Paul Oakenfold,United Kingdom,758475.0,9903882.0,11584,236,52,"['dance', 'electronics', 'pop']"
+996,Steely Dan,United States,758340.0,18404158.0,1781,169,30,"['rock', 'pop', 'jazz']"
+997,Kenny Loggins,United States,757580.0,5504355.0,1405,137,5,"['pop', 'rock', 'children']"
+998,Daughter,United Kingdom,757560.0,26835149.0,47313,59,13,"['indie', 'alternative', 'pop']"
+999,Andy Williams,United States,756473.0,5999545.0,7544,1127,195,"['pop', 'films', 'holiday']"
+1000,Sick Puppies,Australia,756151.0,14275099.0,21301,54,12,['alternativemetal']
+1001,Ja Rule,United States,755857.0,5236324.0,4423,204,14,"['rap', 'pop', 'rnb']"
+1002,Skid Row,United States,754649.0,14759888.0,17011,57,6,"['hardrock', 'classicmetal', 'metal']"
+1003,The Academy Is…,United States,754171.0,23946948.0,1334,48,8,"['alternative', 'rock', 'punk']"
+1004,"Tyler, the Creator",United States,754099.0,42547684.0,115212,179,5,"['rap', 'rnb', 'foreignrap']"
+1005,The B‐52s,United States,753410.0,9147212.0,3138,78,15,"['pop', 'rock', 'alternative']"
+1006,Plies,United States,752828.0,4293472.0,525,407,61,"['rap', 'foreignrap', 'pop']"
+1007,Feeder,United Kingdom,752824.0,15485562.0,1592,224,53,"['rock', 'alternative']"
+1008,Red,United States,752632.0,20127444.0,34403,93,2,"['rock', 'alternative']"
+1009,Orchestral Manoeuvres in the Dark,United Kingdom,751737.0,11044408.0,2047,288,30,"['pop', 'electronics', 'alternative']"
+1010,Neon Trees,United States,751007.0,10641331.0,4878,65,15,['alternative']
+1011,Aimee Mann,United States,750920.0,14534812.0,419,88,11,"['pop', 'rock', 'soundtrack']"
+1012,Tim McGraw,United States,750698.0,10148739.0,977,279,33,"['country', 'rap', 'pop']"
+1013,Twista,United States,750649.0,5260710.0,1364,510,81,"['rap', 'rnb', 'pop']"
+1014,Rogue Wave,United States,750254.0,10222211.0,475,104,16,['indie']
+1015,Pat Benatar,United States,749485.0,6776618.0,4145,162,29,"['rock', 'hardrock', 'holiday']"
+1016,Five for Fighting,United States,748563.0,8373594.0,737,77,15,"['foreignbard', 'indie', 'pop']"
+1017,Walk the Moon,United States,747820.0,13150770.0,7518,67,1,['rock']
+1018,Sarah Vaughan,United States,746844.0,7380155.0,20527,3470,513,['vocaljazz']
+1019,LL Cool J,United States,746795.0,5879989.0,5509,251,18,"['rap', 'rnb', 'foreignrap']"
+1020,Amerie,United States,745741.0,6037833.0,2265,70,3,"['pop', 'rnb', 'rap']"
+1021,Scooter,Germany,744433.0,19361001.0,448515,274,80,"['electronics', 'dance', 'trance']"
+1022,Ben Folds Five,United States,744135.0,14881052.0,153,66,4,"['pop', 'rock']"
+1023,Tove Lo,Sweden,743753.0,27037361.0,52073,177,34,['pop']
+1024,CHVRCHΞS,United Kingdom,743145.0,36658566.0,21659,100,27,['electronics']
+1025,Mr. Scruff,United Kingdom,743091.0,9220954.0,581,107,28,"['electronics', 'dance']"
+1026,The Pretty Reckless,United States,742244.0,32171580.0,217546,56,7,"['hardrock', 'alternative', 'rock']"
+1027,The Wanted,United Kingdom,742047.0,12634892.0,2825,99,17,"['pop', 'dance']"
+1028,Thelonious Monk,United States,741514.0,12096026.0,15100,1786,399,['bebopgenre']
+1029,REO Speedwagon,United States,740275.0,6384051.0,1683,181,11,"['rock', 'hardrock']"
+1030,Reel Big Fish,United States,739658.0,23340431.0,44995,204,11,['ska']
+1031,Jurassic 5,United States,738351.0,15725242.0,892,65,7,"['rap', 'pop', 'dance']"
+1032,The Magnetic Fields,United States,737603.0,36388656.0,647,135,11,['indie']
+1033,Ill Niño,United States,737202.0,19828200.0,19320,82,9,['numetal']
+1034,The Cribs,United Kingdom,736396.0,15383144.0,839,33,6,['indie']
+1035,Aqua,Denmark,736391.0,8657005.0,9665,84,21,"['pop', 'classical', 'rap']"
+1036,Don McLean,United States,736114.0,5823178.0,1211,330,38,"['pop', 'rock', 'country']"
+1037,Blake Shelton,United States,735983.0,9127868.0,17192,206,37,"['country', 'pop', 'holiday']"
+1038,Edvard Grieg,Norway,735936.0,7077055.0,122853,18384,1726,"['classical', 'classicalmasterpieces', 'pop']"
+1039,Róisín Murphy,Ireland,735207.0,17666812.0,5486,143,27,"['electronics', 'pop', 'dance']"
+1040,Underoath,United States,734330.0,35838536.0,12023,108,20,['metalcoregenre']
+1041,The New Pornographers,Canada,734058.0,26528764.0,1416,118,16,['indie']
+1042,múm,Iceland,733866.0,19972246.0,2106,9,1,['pop']
+1043,Don Henley,United States,732928.0,5504972.0,1030,99,9,"['rock', 'pop', 'country']"
+1044,Ricky Martin,United States,732805.0,7726913.0,51496,190,1,"['pop', 'latinfolk']"
+1045,Fat Joe,United States,732752.0,4979717.0,8991,400,73,"['rap', 'foreignrap', 'pop']"
+1046,Daddy Yankee,United States,732678.0,9362932.0,331851,456,94,"['latinfolk', 'pop', 'reggaeton']"
+1047,Peaches,Germany,732609.0,12818957.0,1764,285,57,['indie']
+1048,Dinah Washington,United States,732528.0,6022427.0,11608,2617,464,['vocaljazz']
+1049,A Fine Frenzy,United States,731955.0,16813324.0,674,36,12,"['pop', 'rock', 'holiday']"
+1050,John Mellencamp,United States,731892.0,7299121.0,398,278,31,"['rock', 'pop', 'alternative']"
+1051,Kaskade,United States,731865.0,12621440.0,8976,388,95,"['dance', 'electronics', 'house']"
+1052,House of Pain,United States,731609.0,5523175.0,10512,53,8,"['rap', 'dance']"
+1053,Tosca,Austria,731567.0,11290454.0,1018,30,2,['electronics']
+1054,Atmosphere,United States,730373.0,32408058.0,2096,330,35,"['rap', 'foreignrap', 'dance']"
+1055,Mayday Parade,United States,730260.0,26291959.0,2479,113,19,"['rock', 'alternative']"
+1056,Ben E. King,United States,728279.0,4478774.0,43046,532,124,"['rnb', 'pop', 'soul']"
+1057,Three 6 Mafia,United States,728179.0,10664867.0,9805,422,28,"['rap', 'pop', 'foreignrap']"
+1058,Chris Rea,United Kingdom,728103.0,8901121.0,796558,411,43,"['pop', 'blues', 'rock']"
+1059,Kid Rock,United States,726737.0,8802629.0,3942,178,19,"['rock', 'country', 'rap']"
+1060,Martin Garrix,Netherlands,726254.0,12077218.0,194065,95,27,['edmgenre']
+1061,Jackson Browne,United States,725877.0,8055414.0,505,346,37,"['rock', 'pop', 'allrock']"
+1062,Haddaway,Germany,725639.0,4408268.0,44942,117,31,"['pop', 'electronics', 'dance']"
+1063,Dirty Pretty Things,United Kingdom,725118.0,10622262.0,1167,25,4,['rock']
+1064,MSTRKRFT,Canada,724729.0,10863478.0,387,74,12,"['electronics', 'dance', 'techno']"
+1065,The Whitest Boy Alive,Germany,724677.0,20878627.0,900,23,4,"['alternative', 'dance', 'pop']"
+1066,Buzzcocks,United Kingdom,724439.0,12446287.0,3408,237,37,"['rock', 'pop', 'alternative']"
+1067,Iggy Azalea,United States,724127.0,25337169.0,74530,153,26,"['rap', 'pop', 'dance']"
+1068,Girls Aloud,United Kingdom,723845.0,19273570.0,1094,108,9,['pop']
+1069,Paul van Dyk,Germany,723598.0,11104131.0,1024765,326,78,['trance']
+1070,Culture Club,United Kingdom,723070.0,5406624.0,1313,148,26,"['pop', 'electronics', 'rock']"
+1071,Thousand Foot Krutch,Canada,722185.0,21885866.0,480802,121,23,['alternativemetal']
+1072,10cc,United Kingdom,721943.0,6099838.0,3504,137,18,"['pop', 'rock', 'soundtrack']"
+1073,Relient K,United States,721612.0,23555013.0,1067,202,15,"['alternative', 'rock', 'pop']"
+1074,The Dead Weather,United States,719756.0,19579928.0,8271,40,2,"['indie', 'alternative', 'blues']"
+1075,Darude,Finland,719687.0,5792623.0,336018,61,18,['trance']
+1076,12 Stones,United States,719637.0,10637925.0,5393,53,7,"['alternative', 'rock']"
+1077,Capital Cities,United States,719398.0,11112468.0,29489,45,6,['indie']
+1078,Hurts,United Kingdom,717820.0,28883590.0,201843,85,3,"['pop', 'dance']"
+1079,Toby Keith,United States,717668.0,8236315.0,62608,295,37,"['country', 'holiday']"
+1080,Wings,United Kingdom,717472.0,6681166.0,22007,216,12,"['rock', 'pop']"
+1081,William Fitzsimmons,United States,716348.0,15065993.0,1399,151,34,"['foreignbard', 'folk', 'pop']"
+1082,Mat Kearney,United States,714670.0,10720290.0,1552,98,14,"['pop', 'rock', 'foreignbard']"
+1083,Silverstein,Canada,713557.0,29968310.0,27058,165,21,['posthardcore']
+1084,Crazy Town,United States,712668.0,6273409.0,101266,40,10,['alternative']
+1085,Leftfield,United Kingdom,712592.0,7467579.0,1529,65,6,"['electronics', 'dance', 'pop']"
+1086,Sophie Ellis‐Bextor,United Kingdom,712339.0,13559819.0,13354,75,13,"['pop', 'dance', 'electronics']"
+1087,Badly Drawn Boy,United Kingdom,711738.0,13109969.0,268,179,26,"['alternative', 'rock', 'indie']"
+1088,Ladyhawke,New Zealand,711314.0,14299220.0,1714,71,18,"['pop', 'electronics', 'alternative']"
+1089,Flume,Australia,711081.0,21932871.0,11915,52,11,['bassgenre']
+1090,Bad Company,United Kingdom,710655.0,7643846.0,5042,144,18,"['hardrock', 'rock']"
+1091,The Ronettes,United States,709507.0,5053988.0,2608,72,20,"['rock', 'pop', 'rnb']"
+1092,Jason Aldean,United States,709081.0,9591231.0,1285,151,3,"['country', 'holiday']"
+1093,Ace Hood,United States,708959.0,4329817.0,8053,501,58,"['rap', 'foreignrap', 'soul']"
+1094,Brett Dennen,United States,708908.0,7655243.0,229,100,13,"['pop', 'foreignbard', 'country']"
+1095,Franz Liszt,Hungary,708641.0,6579018.0,83121,24586,2957,"['classical', 'classicalmasterpieces', 'pop']"
+1096,Kygo,Norway,707859.0,16521858.0,204782,84,5,['electronics']
+1097,Soundtrack,Germany,706748.0,20822930.0,0,9,1,['trance']
+1098,The Ataris,United States,706723.0,13180457.0,1323,130,11,"['punk', 'rock']"
+1099,Delerium,Canada,706638.0,12219215.0,6799,234,38,['newage']
+1100,Asher Roth,United States,705380.0,7058647.0,192,120,29,"['rap', 'alternative', 'pop']"
+1101,Rudimental,United Kingdom,705319.0,12329463.0,56749,181,38,"['dance', 'pop', 'dnb']"
+1102,The Horrors,United Kingdom,705005.0,20261748.0,7518,83,14,"['alternative', 'electronics', 'rock']"
+1103,Metro Station,United States,704861.0,12544941.0,679,47,9,"['pop', 'alternative', 'rock']"
+1104,Iyaz,British Virgin Islands,704826.0,4405212.0,808,42,13,"['pop', 'foreignrap', 'rnb']"
+1105,James Vincent McMorrow,Ireland,704561.0,12047408.0,3987,96,19,['indie']
+1106,The Turtles,United States,703225.0,5414527.0,2306,155,14,"['rock', 'dance', 'japanesepop']"
+1107,Zebrahead,United States,702978.0,21170762.0,18946,176,17,"['alternative', 'rock', 'pop']"
+1108,Thomas Newman,United States,702746.0,16213409.0,4391,1007,39,"['films', 'soundtrack', 'animated']"
+1109,The‐Dream,United States,702488.0,6235923.0,4972,215,25,"['rnb', 'rap', 'soul']"
+1110,Anastacia,United States,702476.0,9022577.0,17870,132,18,"['pop', 'dance', 'jazz']"
+1111,Tech N9ne,United States,702017.0,16647601.0,79765,910,82,"['rap', 'foreignrap', 'electronics']"
+1112,Cassie,United States,701755.0,6289630.0,2320,154,57,"['pop', 'rap', 'rnb']"
+1113,Luther Vandross,United States,700090.0,5382499.0,36021,197,6,"['rnb', 'pop', 'disco']"
+1114,Jack’s Mannequin,United States,699406.0,25523349.0,155,54,5,"['alternative', 'pop']"
+1115,Antonín Dvořák,Czech Republic,699074.0,6403780.0,18836,23505,2395,"['classical', 'classicalmasterpieces', 'jazz']"
+1116,Édith Piaf,France,698747.0,13653082.0,32749,2847,623,['estrada']
+1117,The Specials,United Kingdom,698683.0,11087023.0,21348,231,36,['ska']
+1118,Basshunter,Sweden,698564.0,15132771.0,75973,72,11,['edmgenre']
+1119,Nena,Germany,698127.0,5659955.0,3881,382,36,"['pop', 'rock', 'children']"
+1120,The Antlers,United States,696935.0,23201061.0,969,5,1,"['alternative', 'rock', 'indie']"
+1121,John Frusciante,United States,696190.0,40053776.0,9437,154,15,['indie']
+1122,DragonForce,United Kingdom,695597.0,23025781.0,26417,84,13,['epicmetal']
+1123,St Germain,France,695256.0,8904284.0,712,41,9,"['electronics', 'house']"
+1124,Phantogram,United States,694209.0,18625155.0,37940,69,12,['indie']
+1125,Charles Mingus,United States,694127.0,10652109.0,4597,1847,320,['bebopgenre']
+1126,Dexys Midnight Runners,United Kingdom,693293.0,4934772.0,4448,76,7,"['pop', 'newwave', 'rock']"
+1127,Koop,Sweden,693106.0,10801599.0,4479,38,6,['lounge']
+1128,Little Boots,United Kingdom,691804.0,12629269.0,1254,119,35,"['pop', 'electronics', 'dance']"
+1129,Primus,United States,689427.0,19802436.0,4988,126,14,"['rock', 'pop', 'prog']"
+1130,Senses Fail,United States,688721.0,21944077.0,1734,125,17,['posthardcore']
+1131,Black Kids,United States,686901.0,9110556.0,294,11,1,"['alternative', 'pop']"
+1132,Mew,Denmark,685894.0,31495941.0,1336,82,4,['alternative']
+1133,Gotan Project,France,685555.0,14566628.0,3805,97,11,['lounge']
+1134,First Aid Kit,Sweden,685475.0,18452643.0,12209,51,7,['indie']
+1135,Dixie Chicks,United States,685327.0,10319820.0,510,29,0,"['country', 'pop']"
+1136,Stan Getz,United States,684562.0,9171261.0,27929,3815,581,['bebopgenre']
+1137,At the Drive‐In,United States,684435.0,28285293.0,8517,32,4,['posthardcore']
+1138,Keyshia Cole,United States,684398.0,5974777.0,26889,139,12,"['rnb', 'rap', 'soul']"
+1139,Frankie Goes to Hollywood,United Kingdom,684261.0,4998333.0,1262,58,10,"['rock', 'pop', 'dance']"
+1140,Future,United States,683164.0,22598670.0,203384,1009,80,"['rap', 'foreignrap', 'rnb']"
+1141,Ashley Tisdale,United States,683128.0,11343060.0,5682,75,15,"['pop', 'dance', 'electronics']"
+1142,Sleigh Bells,United States,682262.0,18309113.0,1342,12,2,"['alternative', 'rock']"
+1143,The Mountain Goats,United States,681861.0,44755292.0,604,184,22,['indie']
+1144,Harry Nilsson,United States,681745.0,7309779.0,23,78,2,"['pop', 'rock']"
+1145,Le Tigre,United States,681744.0,12485574.0,3548,32,2,"['alternative', 'pop']"
+1146,“Weird Al” Yankovic,United States,681697.0,16774007.0,2429,180,4,"['pop', 'rock']"
+1147,God Is an Astronaut,Ireland,680896.0,46732413.0,573566,104,13,['postrock']
+1148,Madvillain,United States,679788.0,23762310.0,1900,71,6,['rap']
+1149,Isaac Hayes,United States,679423.0,5100741.0,2853,231,27,"['rnb', 'soul', 'pop']"
+1150,Wyclef Jean,United States,679286.0,6587917.0,10762,272,46,"['rap', 'pop', 'dance']"
+1151,They Might Be Giants,United States,678362.0,25144673.0,896,483,42,"['alternative', 'rock']"
+1152,Rita Ora,United Kingdom,678284.0,12349040.0,133654,98,19,"['pop', 'dance', 'rap']"
+1153,Eve 6,United States,678041.0,7766831.0,399,62,10,"['rock', 'pop', 'punk']"
+1154,Bobby Darin,United States,677308.0,5242038.0,6254,1355,257,['tradjazz']
+1155,Stromae,Belgium,676958.0,15378742.0,350631,49,10,"['dance', 'pop', 'electronics']"
+1156,Something Corporate,United States,676501.0,20583452.0,277,37,4,"['rock', 'pop', 'punk']"
+1157,The Go! Team,United Kingdom,676400.0,13355598.0,450,94,19,"['alternative', 'pop', 'rock']"
+1158,Say Anything,United States,676311.0,30309607.0,352,155,9,"['rock', 'alternative', 'pop']"
+1159,Minus the Bear,United States,676024.0,29745476.0,370,107,15,"['alternative', 'rock', 'indie']"
+1160,Perry Como,United States,675979.0,4527255.0,190799,2472,381,['vocaljazz']
+1161,Brenda Lee,United States,675770.0,3829706.0,44596,784,171,['vocaljazz']
+1162,HAIM,United States,674831.0,22487387.0,17991,78,16,"['indie', 'edmgenre', 'alternative']"
+1163,Flux Pavilion,United Kingdom,673855.0,7621224.0,326790,132,36,['edmgenre']
+1164,Solange,United States,673780.0,14237396.0,23777,110,17,"['dance', 'rnb', 'pop']"
+1165,Jonas Brothers,United States,673540.0,17778042.0,32315,94,27,"['pop', 'holiday', 'dance']"
+1166,Julie London,United States,673155.0,6407834.0,137605,875,269,['vocaljazz']
+1167,The Head and the Heart,United States,671884.0,12028640.0,3165,49,11,['indie']
+1168,Gary Moore,United Kingdom,671754.0,10955792.0,192472,290,44,"['rock', 'blues', 'hardrock']"
+1169,Funeral for a Friend,United Kingdom,671594.0,24959451.0,4705,102,25,['posthardcore']
+1170,The Weepies,United States,671346.0,12804094.0,1521,79,8,['indie']
+1171,The Rakes,United Kingdom,671060.0,9072667.0,265,5,0,[]
+1172,Donavon Frankenreiter,United States,670798.0,8072859.0,276,128,29,['foreignbard']
+1173,Pennywise,United States,670601.0,18940724.0,14759,193,17,['punk']
+1174,Mystery Jets,United Kingdom,670287.0,11593799.0,834,111,24,['indie']
+1175,Neon Indian,United States,669834.0,17504779.0,805,3,1,['alternative']
+1176,The Alan Parsons Project,United Kingdom,668894.0,13759621.0,20501,104,2,"['rock', 'pop']"
+1177,Spandau Ballet,United Kingdom,668655.0,5374647.0,23206,95,19,"['pop', 'rock', 'dance']"
+1178,Yo Gotti,United States,668133.0,3963936.0,6969,866,72,"['rap', 'rnb', 'dance']"
+1179,MC Hammer,United States,667884.0,3077404.0,12811,52,11,"['rap', 'pop', 'electronics']"
+1180,Okkervil River,United States,666472.0,22654546.0,299,136,25,['indie']
+1181,Blackstreet,United States,665959.0,3557473.0,1822,97,10,"['rnb', 'pop', 'rap']"
+1182,Jimmy Cliff,Jamaica,665270.0,5382910.0,12461,231,31,"['reggae', 'ska', 'pop']"
+1183,Cold,United States,665255.0,12427288.0,7692,74,8,"['rock', 'alternative', 'pop']"
+1184,Juelz Santana,United States,665138.0,4104008.0,486,288,29,"['rap', 'soul', 'foreignrap']"
+1185,Sugar Ray,United States,664088.0,6283445.0,525,170,18,['rock']
+1186,Sugar Ray Norcia,United States,664088.0,6283445.0,5,28,1,['blues']
+1187,Buena Vista Social Club,Cuba,663663.0,13999220.0,16176,47,4,"['folk', 'latinfolk']"
+1188,4 Non Blondes,United States,663123.0,4435025.0,1934,13,2,"['rap', 'alternative']"
+1189,Dierks Bentley,United States,662961.0,7091877.0,2452,152,21,"['country', 'pop', 'holiday']"
+1190,Sevendust,United States,662775.0,13285153.0,4112,137,21,['numetal']
+1191,Panda Bear,United States,662558.0,17084904.0,723,69,15,['indie']
+1192,Cocteau Twins,United Kingdom,662502.0,29702378.0,32211,140,20,"['rock', 'newwave', 'electronics']"
+1193,Them Crooked Vultures,United States,662466.0,15252953.0,1871,13,1,['alternative']
+1194,Archive,United Kingdom,661936.0,30066875.0,10310,105,13,['triphopgenre']
+1195,Toro y Moi,United States,661334.0,27248903.0,2746,123,22,['indie']
+1196,Diplo,United States,661129.0,7984936.0,81181,319,64,['edmgenre']
+1197,Rachael Yamagata,United States,660788.0,9488150.0,733,87,10,"['pop', 'folk', 'foreignbard']"
+1198,The Raveonettes,Denmark,660255.0,16247685.0,3033,136,15,['indie']
+1199,Best Coast,United States,659498.0,23364836.0,1383,74,10,"['alternative', 'holiday', 'pop']"
+1200,The Avett Brothers,United States,659016.0,23555999.0,340,171,22,"['rock', 'country', 'folk']"
+1201,D'angelo,Brazil,658742.0,10895840.0,11906,142,14,"['rnb', 'funk', 'rap']"
+1202,Boys Noize,Germany,658603.0,10822835.0,160178,193,67,"['electronics', 'dance', 'techno']"
+1203,Godspeed You! Black Emperor,Canada,658559.0,19468662.0,29893,39,8,['postrock']
+1204,Death in Vegas,United Kingdom,658026.0,8466279.0,3070,60,7,['triphopgenre']
+1205,Blue Foundation,Denmark,657609.0,11176526.0,14678,143,27,['triphopgenre']
+1206,Less Than Jake,United States,657406.0,23563341.0,12104,175,19,"['rock', 'ska', 'punk']"
+1207,Manchester Orchestra,United States,657365.0,21045715.0,5024,138,25,['indie']
+1208,Janelle Monáe,United States,656770.0,24352008.0,32028,114,22,"['rnb', 'dance', 'pop']"
+1209,Helloween,Germany,656752.0,36403948.0,62124,266,27,['epicmetal']
+1210,We the Kings,United States,655552.0,12354779.0,824,111,23,"['alternative', 'pop', 'holiday']"
+1211,The Avalanches,Australia,655548.0,18673903.0,1780,88,6,"['electronics', 'alternative', 'indie']"
+1212,The Zutons,United Kingdom,655045.0,7691216.0,191,41,0,"['pop', 'indie']"
+1213,Fear Factory,United States,654776.0,25289616.0,41281,170,18,['industrial']
+1214,Arch Enemy,Sweden,652860.0,42201022.0,38120,156,4,['deathmetal']
+1215,Flunk,Norway,652456.0,11095590.0,1290,108,20,['triphopgenre']
+1216,Yelle,France,652283.0,12762581.0,3550,70,17,"['electronics', 'pop', 'dance']"
+1217,Matt Costa,United States,652186.0,7700868.0,78,136,17,"['folk', 'rock', 'alternative']"
+1218,Nazareth,United Kingdom,652070.0,7721246.0,196112,316,38,['hardrock']
+1219,Felix Mendelssohn,Germany,651717.0,5234142.0,91900,28652,2960,"['classical', 'classicalmasterpieces', 'pop']"
+1220,The Civil Wars,United States,651523.0,12083813.0,1392,30,3,"['alternative', 'folk', 'pop']"
+1221,Young Buck,United States,651333.0,4229646.0,4800,996,168,"['rap', 'foreignrap', 'dance']"
+1222,Gogol Bordello,United States,650981.0,25723861.0,45766,41,6,"['punk', 'dance']"
+1223,Jessica Simpson,United States,650076.0,5467922.0,765,80,2,"['pop', 'country', 'holiday']"
+1224,Luke Bryan,United States,650045.0,9629162.0,1785,148,18,"['country', 'pop']"
+1225,Alan Jackson,United States,649601.0,8252180.0,89532,270,12,"['country', 'holiday', 'pop']"
+1226,You Me at Six,United Kingdom,648189.0,28275653.0,5831,91,22,"['rock', 'alternative', 'pop']"
+1227,Crystal Fighters,United Kingdom,648155.0,12997284.0,1078,58,12,"['dance', 'electronics', 'pop']"
+1228,Faith Hill,United States,648100.0,5737933.0,545,122,15,"['country', 'pop']"
+1229,Rob Thomas,United States,647887.0,6980921.0,2077,189,27,"['pop', 'dance', 'jazz']"
+1230,Warpaint,United States,647815.0,22701118.0,3640,64,14,['indie']
+1231,Danzig,United States,647698.0,15005222.0,3876,114,12,['classicmetal']
+1232,J. Holiday,United States,647220.0,4016257.0,36,40,5,"['pop', 'rnb']"
+1233,Caesars,Sweden,646502.0,6989600.0,5876,97,17,"['rock', 'pop']"
+1234,Rick Astley,United Kingdom,645717.0,4707659.0,8111,102,23,"['pop', 'dance', 'alternative']"
+1235,Bob Seger,United States,644986.0,5528698.0,1095,76,5,"['rock', 'soundtrack']"
+1236,2 Chainz,United States,644267.0,9615375.0,84056,723,96,['foreignrap']
+1237,Augustana,United States,643981.0,12476280.0,400,69,11,"['alternative', 'rock', 'pop']"
+1238,Black Label Society,United States,643779.0,26087230.0,7027,176,19,['classicmetal']
+1239,The Pharcyde,United States,643674.0,8693005.0,1903,101,7,['rap']
+1240,Meek Mill,United States,643402.0,9495504.0,39504,594,58,"['rap', 'pop', 'rnb']"
+1241,Little Richard,United States,642615.0,5756840.0,194873,1017,238,"['rock', 'rnr', 'pop']"
+1242,Сергей Васильевич Рахманинов,Russia,642317.0,7706108.0,250874,22015,1924,"['classical', 'classicalmasterpieces', 'pop']"
+1243,Canned Heat,United States,642151.0,5646731.0,2853,403,59,"['rock', 'blues', 'pop']"
+1244,Talk Talk,United Kingdom,641611.0,10235794.0,2524,51,12,"['pop', 'rock', 'dance']"
+1245,Patrick Wolf,United Kingdom,641049.0,30397674.0,2113,84,11,"['pop', 'alternative', 'rock']"
+1246,Blind Guardian,Germany,640880.0,56326583.0,37824,177,22,['epicmetal']
+1247,Marcy Playground,United States,640746.0,5024366.0,453,69,9,"['alternative', 'pop']"
+1248,Vertical Horizon,United States,640739.0,7282473.0,489,72,6,"['alternative', 'rock', 'pop']"
+1249,Skunk Anansie,United Kingdom,640551.0,11599587.0,4475,107,23,['alternative']
+1250,Joanna Newsom,United States,640426.0,24466702.0,524,49,5,['foreignbard']
+1251,Charlie Parker,United States,640025.0,10001724.0,19231,3919,614,['bebopgenre']
+1252,Band of Skulls,United Kingdom,639500.0,10166785.0,2913,38,10,['rock']
+1253,Alexisonfire,Canada,639272.0,40337053.0,5472,65,17,['posthardcore']
+1254,Saosin,United States,639259.0,25611526.0,9225,55,10,['posthardcore']
+1255,Low,United States,638885.0,18011679.0,0,2,2,['pop']
+1256,Andrea Bocelli,Italy,638501.0,9062077.0,97029,598,67,['vocal']
+1257,Fischerspooner,United States,637676.0,10437680.0,1868,72,16,"['pop', 'dance', 'electronics']"
+1258,Trentemøller,Denmark,637347.0,18223603.0,9191,177,44,"['electronics', 'alternative', 'rock']"
+1259,Fountains of Wayne,United States,636965.0,8732130.0,675,89,7,"['pop', 'rock', 'alternative']"
+1260,Miranda Lambert,United States,636558.0,8153321.0,1121,142,3,"['country', 'pop', 'alternative']"
+1261,James,United Kingdom,636529.0,10685532.0,35815,115,8,"['pop', 'dance', 'foreignbard']"
+1262,Peter Tosh,Jamaica,636412.0,6708661.0,13923,153,18,"['reggae', 'rock']"
+1263,Uriah Heep,United Kingdom,636402.0,11199532.0,79378,311,56,['hardrock']
+1264,Calexico,United States,636045.0,19114266.0,524,264,22,['indie']
+1265,Joseph Haydn,Austria,635600.0,6616731.0,47833,49128,2714,[]
+1266,Huey Lewis and the News,United States,635595.0,6277496.0,1534,109,14,"['pop', 'rock', 'alternative']"
+1267,KC and the Sunshine Band,United States,634923.0,4615397.0,24887,220,27,"['pop', 'electronics', 'disco']"
+1268,Carole King,United States,634836.0,7222840.0,621,325,30,"['pop', 'rock', 'folk']"
+1269,Social Distortion,United States,633996.0,16362887.0,14730,89,7,"['rock', 'rnr', 'punk']"
+1270,Box Car Racer,United States,633855.0,9543927.0,1831,13,1,"['pop', 'rock']"
+1271,Enter Shikari,United Kingdom,633787.0,54089328.0,216910,85,13,['posthardcore']
+1272,Cults,United States,633540.0,12493078.0,3962,50,9,"['indie', 'pop', 'alternative']"
+1273,Status Quo,United Kingdom,633492.0,7599824.0,166132,542,67,['hardrock']
+1274,Temple of the Dog,United States,633160.0,6529067.0,926,13,2,"['pop', 'alternative', 'rock']"
+1275,Chingy,United States,632945.0,3544443.0,1709,193,51,"['rap', 'foreignrap', 'pop']"
+1276,DJ Fresh,United Kingdom,632790.0,7642811.0,15578,102,21,['dnb']
+1277,Chicane,United Kingdom,632674.0,9940865.0,3692,24,3,"['dance', 'house']"
+1278,SOiL,United States,632076.0,12684982.0,14653,75,8,['alternativemetal']
+1279,Shiny Toy Guns,United States,632017.0,13839380.0,754,59,8,"['rock', 'electronics', 'dance']"
+1280,Kosheen,United Kingdom,631378.0,11463468.0,25626,97,13,['breakbeatgenre']
+1281,Extreme,United States,631217.0,6396192.0,2839,76,10,['hardrock']
+1282,Slightly Stoopid,United States,631132.0,11580988.0,2534,183,27,"['reggae', 'rock', 'ska']"
+1283,Steve Aoki,United States,630782.0,19541100.0,47701,391,102,['edmgenre']
+1284,Millencolin,Sweden,630746.0,25091197.0,8130,156,17,['punk']
+1285,Juanes,Colombia,629499.0,8601929.0,121259,177,42,"['pop', 'latinfolk', 'foreignrap']"
+1286,Cheryl,United Kingdom,629140.0,13174999.0,3359,86,11,"['pop', 'dance']"
+1287,Yung Joc,United States,629003.0,2843698.0,299,156,27,"['rap', 'pop', 'soul']"
+1288,Soulfly,United States,628428.0,19471039.0,18144,174,18,['thrashmetal']
+1289,Mark Knopfler,United Kingdom,628416.0,16532741.0,29863,302,34,"['rock', 'pop', 'country']"
+1290,Ghostface Killah,United States,627804.0,15161570.0,4978,661,63,"['rap', 'rnb', 'house']"
+1291,Real Estate,United States,627373.0,20115804.0,541,62,12,['indie']
+1292,Dave Brubeck,United States,627270.0,7377850.0,41277,2106,326,['bebopgenre']
+1293,SBTRKT,United Kingdom,627049.0,18380038.0,1946,90,14,['ukgaragegenre']
+1294,Meghan Trainor,United States,626665.0,11606331.0,60201,96,4,"['pop', 'holiday', 'dance']"
+1295,Richard Wagner,Germany,626437.0,6390765.0,72524,26239,1245,"['classical', 'vocal', 'classicalmasterpieces']"
+1296,Sonata Arctica,Finland,626420.0,56358759.0,37606,126,23,['epicmetal']
+1297,"Crosby, Stills & Nash",United States,626288.0,7195477.0,1106,146,15,['folkrock']
+1298,Hank Williams,United States,625807.0,7747009.0,2047,1275,246,"['country', 'pop', 'jazz']"
+1299,The Bird and the Bee,United States,625562.0,11360976.0,561,83,19,['indie']
+1300,Alabama Shakes,United States,625526.0,14503570.0,5727,31,5,['rock']
+1301,Westlife,Ireland,625166.0,12477643.0,6037,194,7,"['pop', 'holiday', 'foreignbard']"
+1302,Grandaddy,United States,624896.0,11884195.0,410,93,13,['indie']
+1303,Manowar,United States,624725.0,28578965.0,154164,78,8,['classicmetal']
+1304,The Bloody Beetroots,Italy,624263.0,11520430.0,5233,161,30,"['electronics', 'dance', 'pop']"
+1305,The Proclaimers,United Kingdom,624026.0,5293048.0,1122,191,17,"['pop', 'rock', 'alternative']"
+1306,Ash,United Kingdom,623753.0,10082494.0,110885,286,135,"['rap', 'pop', 'electronics']"
+1307,DJ Snake,France,623702.0,8442607.0,334186,118,34,"['dance', 'electronics', 'rap']"
+1308,Warren G,United States,623320.0,4823158.0,1805,100,9,"['rap', 'dnb']"
+1309,The Pointer Sisters,United States,623257.0,3753582.0,73622,142,10,"['pop', 'rnb', 'dance']"
+1310,Sky Ferreira,United States,622536.0,13991824.0,8666,35,5,"['pop', 'alternative']"
+1311,New Radicals,United States,621201.0,4534796.0,551,13,2,"['pop', 'rock']"
+1312,A Flock of Seagulls,United Kingdom,621037.0,4914361.0,928,105,15,"['pop', 'rock', 'electronics']"
+1313,Gin Blossoms,United States,620379.0,5724411.0,141,90,13,"['rock', 'pop']"
+1314,Starship,United States,620238.0,3880835.0,1190,103,22,"['rock', 'pop', 'trance']"
+1315,Bill Evans,United States,619931.0,12366054.0,14085,2471,305,['bebopgenre']
+1316,Sarah Brightman,United Kingdom,619685.0,11091258.0,13123,297,30,['pop']
+1317,Hanson,United States,619606.0,9491105.0,584,195,30,"['rock', 'pop', 'holiday']"
+1318,Mr. Oizo,France,618538.0,9964139.0,3741,171,17,"['electronics', 'films', 'soul']"
+1319,Bassnectar,United States,618217.0,10815652.0,93712,167,29,"['electronics', 'dubstep', 'dance']"
+1320,Filter,United States,616484.0,8479029.0,3434,103,16,['alternativemetal']
+1321,French Montana,United States,616457.0,6573919.0,45813,833,88,"['rap', 'pop', 'foreignrap']"
+1322,Example,United Kingdom,616314.0,11488304.0,27648,174,37,"['dance', 'rap', 'edmgenre']"
+1323,James Horner,United States,615542.0,13181414.0,4172,763,45,"['soundtrack', 'films', 'classical']"
+1324,Clipse,United States,615374.0,7723234.0,559,73,4,"['rap', 'foreignrap', 'pop']"
+1325,Sébastien Tellier,France,615130.0,9493528.0,1839,170,38,"['electronics', 'indie', 'films']"
+1326,Volbeat,Denmark,614948.0,35221750.0,56236,134,12,['classicmetal']
+1327,Carly Simon,United States,614628.0,4719346.0,379,285,24,"['pop', 'rock', 'vocal']"
+1328,The Starting Line,United States,614583.0,13253249.0,288,57,10,"['alternative', 'rock', 'pop']"
+1329,The Maine,United States,614546.0,24001868.0,804,156,35,['indie']
+1330,Emeli Sandé,United Kingdom,613840.0,11560468.0,10272,139,29,"['pop', 'dance', 'rap']"
+1331,Quantic,Colombia,613840.0,9559755.0,2054,363,78,['lounge']
+1332,Bauhaus,United Kingdom,613704.0,17580961.0,18698,80,18,"['alternative', 'allrock', 'newwave']"
+1333,Jerry Lee Lewis,United States,613484.0,5536864.0,113499,1734,276,"['rock', 'rnr', 'pop']"
+1334,Jennifer Hudson,United States,613389.0,5259097.0,14740,107,6,"['rnb', 'pop', 'soundtrack']"
+1335,India.Arie,United States,613189.0,7284883.0,7776,151,21,"['rnb', 'foreignbard', 'holiday']"
+1336,Eiffel 65,Italy,612966.0,5125359.0,20186,74,26,"['electronics', 'dance', 'house']"
+1337,De-Phazz,Germany,612927.0,10995568.0,9461,249,24,['lounge']
+1338,The Drifters,United States,612685.0,4013518.0,1947,1039,185,"['rnb', 'pop', 'rock']"
+1339,Plan B,Germany,611937.0,10232094.0,7826,103,20,['rap']
+1340,Howlin’ Wolf,United States,610614.0,7991463.0,18087,814,169,"['blues', 'pop', 'rock']"
+1341,Rooney,United States,610565.0,8428636.0,315,75,18,"['pop', 'indie', 'rap']"
+1342,Stevie Ray Vaughan and Double Trouble,United States,609869.0,8545336.0,10925,65,1,"['rock', 'blues']"
+1343,Fink,Germany,609764.0,13147564.0,3335,115,40,"['alternative', 'folk', 'prog']"
+1344,Jon Hopkins,United Kingdom,609281.0,15259367.0,12175,142,35,['techno']
+1345,Armand van Helden,United States,609176.0,4947376.0,936,301,61,"['dance', 'electronics', 'house']"
+1346,Jeff Beck,United Kingdom,608824.0,7581322.0,10131,335,23,"['rock', 'hardrock', 'blues']"
+1347,Travie McCoy,United States,608720.0,5427220.0,2096,35,9,"['pop', 'rap', 'foreignrap']"
+1348,Booker T. & The MG’s,United States,608555.0,5235374.0,3009,124,24,"['rnb', 'rock', 'soul']"
+1349,Fugazi,United States,607342.0,25751204.0,869,8,4,"['rap', 'rusrap']"
+1350,Slowdive,United Kingdom,606627.0,28368565.0,18216,59,2,"['indie', 'alternative', 'rock']"
+1351,Guster,United States,606400.0,12593338.0,317,160,45,"['alternative', 'rock', 'house']"
+1352,The Presets,Australia,606090.0,12258806.0,925,127,23,"['electronics', 'dance', 'pop']"
+1353,Gorilla Zoe,United States,605808.0,3184899.0,1354,536,61,"['rap', 'pop', 'dance']"
+1354,The Pigeon Detectives,United Kingdom,605789.0,9992510.0,711,57,5,"['rock', 'alternative', 'indie']"
+1355,Don Omar,United States,605738.0,6814113.0,80497,311,47,"['pop', 'latinfolk', 'reggaeton']"
+1356,Better Than Ezra,United States,605632.0,5943388.0,177,98,15,"['rock', 'alternative', 'electronics']"
+1357,Jesse McCartney,United States,605411.0,9121806.0,603,78,14,"['pop', 'rock']"
+1358,Lil Jon,United States,605179.0,3601330.0,63128,249,53,"['rap', 'dance', 'pop']"
+1359,STRFKR,United States,604736.0,14000394.0,1505,63,7,"['electronics', 'alternative', 'indie']"
+1360,Jill Scott,United States,604500.0,8276383.0,5965,180,17,"['rnb', 'soul', 'jazz']"
+1361,Toots & The Maytals,Jamaica,603356.0,8309660.0,8382,320,56,"['reggae', 'ska', 'folk']"
+1362,The Breeders,United States,602353.0,11136399.0,2802,77,12,['alternative']
+1363,Maurice Ravel,France,602043.0,4940823.0,27342,19277,1965,"['classical', 'modern', 'classicalmasterpieces']"
+1364,Chaka Khan,United States,601860.0,4409017.0,22559,314,52,"['rnb', 'pop', 'dance']"
+1365,MF DOOM,United States,601814.0,23642064.0,10712,435,42,"['rap', 'alternative', 'foreignrap']"
+1366,Texas,United Kingdom,601364.0,6913929.0,3503,154,26,"['rock', 'pop', 'dance']"
+1367,Porter Robinson,United States,600771.0,9151160.0,5292,50,9,"['dance', 'electronics', 'pop']"
+1368,ScHoolboy Q,United States,599861.0,18587694.0,42279,163,19,"['rap', 'rnb', 'edmgenre']"
+1369,The Sounds,Sweden,598395.0,21611896.0,503114,84,22,['newwave']
+1370,Julian Casablancas,United States,597868.0,8353502.0,3948,21,1,"['alternative', 'indie']"
+1371,The Devil Wears Prada,United States,597642.0,27850539.0,11536,101,15,['metalcoregenre']
+1372,Parkway Drive,Australia,597617.0,44407325.0,21432,103,9,['metalcoregenre']
+1373,BANKS,United States,597564.0,21579497.0,38250,96,11,['indie']
+1374,Belinda Carlisle,United States,597530.0,6629007.0,4340,93,12,"['pop', 'folk', 'house']"
+1375,Cradle of Filth,United Kingdom,597460.0,34203280.0,25536,242,22,['blackmetal']
+1376,The Lovin’ Spoonful,United States,597310.0,4307321.0,1054,123,9,"['rock', 'pop', 'prog']"
+1377,Natalia Kills,United Kingdom,596801.0,11694186.0,3315,47,8,"['pop', 'dance', 'electronics']"
+1378,Ferry Corsten,Netherlands,596538.0,7971182.0,92474,258,57,['trance']
+1379,Gary Numan,United Kingdom,596489.0,9543395.0,3227,422,64,"['alternative', 'electronics', 'rock']"
+1380,Spiritualized,United Kingdom,596279.0,15308641.0,896,101,7,"['rock', 'alternative', 'experimental']"
+1381,Above & Beyond,United Kingdom,595809.0,14443953.0,108236,1546,252,['trance']
+1382,MØ,Denmark,595474.0,16184007.0,36472,92,10,"['pop', 'rap', 'electronics']"
+1383,Kim Wilde,United Kingdom,595232.0,4900729.0,3581,203,33,"['pop', 'dance', 'rock']"
+1384,Los Campesinos!,United Kingdom,594611.0,20728618.0,293,57,7,['alternative']
+1385,George Ezra,United Kingdom,594573.0,11404257.0,12071,34,0,['foreignbard']
+1386,Tom Odell,United Kingdom,593933.0,11710642.0,163781,96,1,['foreignbard']
+1387,All Saints,United Kingdom,593592.0,5715309.0,974,114,23,"['pop', 'dance']"
+1388,The Dave Brubeck Quartet,United States,593517.0,6829299.0,9059,899,151,['bebopgenre']
+1389,Rick James,United States,593334.0,3717225.0,23585,144,20,"['rnb', 'funk', 'foreignrap']"
+1390,Mylo,United Kingdom,593270.0,6492243.0,260,59,16,"['pop', 'electronics', 'dance']"
+1391,Shawn Mendes,Canada,593270.0,22070953.0,166330,90,23,"['pop', 'soundtrack']"
+1392,Chairlift,United States,593243.0,9890266.0,649,25,1,['indie']
+1393,Pretty Lights,United States,593058.0,16534588.0,1607,27,4,['electronics']
+1394,Gloria Gaynor,United States,592998.0,3096927.0,958270,307,58,"['pop', 'dance', 'disco']"
+1395,Purity Ring,Canada,592992.0,21357148.0,4423,49,13,['bassgenre']
+1396,Black Flag,United States,592223.0,18234080.0,10717,116,18,"['punk', 'hardcore', 'alternative']"
+1397,Chic,United States,591596.0,4411372.0,15673,199,45,['disco']
+1398,Jamie T,United Kingdom,591333.0,14004554.0,1070,87,19,['foreignbard']
+1399,Frightened Rabbit,United Kingdom,591157.0,20179734.0,447,49,8,['indie']
+1400,Apparat,Germany,590985.0,18230184.0,7864,49,8,['idmgenre']
+1401,Jadakiss,United States,590914.0,4009994.0,3859,706,141,[]
+1402,Nico,Germany,590898.0,8221077.0,3341,109,24,"['rock', 'folk', 'pop']"
+1403,Joan Baez,United States,590460.0,6936333.0,3084,858,158,"['pop', 'folk', 'foreignbard']"
+1404,Robert Palmer,United Kingdom,590158.0,4246704.0,2118,141,19,"['pop', 'rock']"
+1405,Ziggy Marley,Jamaica,590032.0,4942144.0,6821,110,18,"['reggae', 'children', 'pop']"
+1406,Wilson Pickett,United States,589887.0,4076230.0,1497,157,24,"['rnb', 'soul', 'rock']"
+1407,Alex Clare,United Kingdom,589262.0,8672484.0,541568,56,12,"['dance', 'pop', 'rock']"
+1408,Michael Nyman,United Kingdom,589178.0,9606976.0,2738,445,39,"['classical', 'relax', 'modern']"
+1409,Stereolab,United Kingdom,589163.0,16844973.0,3625,93,10,"['alternative', 'experimental', 'pop']"
+1410,Dispatch,United States,589136.0,9631127.0,260,149,35,"['rock', 'alternative', 'house']"
+1411,Robert Schumann,Germany,588788.0,5125211.0,67850,45803,2435,"['classical', 'classicalmasterpieces', 'pop']"
+1412,PSY,South Korea,588381.0,6500809.0,202487,67,8,['kpop']
+1413,"Emerson, Lake & Palmer",United Kingdom,587952.0,9440442.0,4267,210,22,"['rock', 'prog', 'electronics']"
+1414,Eva Cassidy,United States,587834.0,7859940.0,3646,115,19,['estrada']
+1415,Soul Asylum,United States,587525.0,4359472.0,955,179,13,"['rock', 'alternative', 'pop']"
+1416,Cute Is What We Aim For,United States,587490.0,14312429.0,345,26,2,"['rock', 'pop', 'alternative']"
+1417,Inna,Romania,587371.0,10170771.0,2283317,328,113,"['dance', 'pop', 'electronics']"
+1418,Mono,United Kingdom,586700.0,15575811.0,7443,120,20,['postrock']
+1419,Default,Canada,586686.0,5894783.0,1133,38,4,"['rock', 'alternative']"
+1420,MONO,Japan,586664.0,15574124.0,7443,120,20,['postrock']
+1421,Raekwon,United States,586239.0,10054496.0,3024,536,40,"['rap', 'rnb', 'foreignrap']"
+1422,Hootie & the Blowfish,United States,585785.0,5517931.0,331,109,9,"['pop', 'country', 'rock']"
+1423,Shout Out Louds,Sweden,585646.0,12814205.0,307,57,8,['indie']
+1424,Against Me!,United States,585407.0,32528358.0,11877,105,23,"['punk', 'rock', 'alternative']"
+1425,Electric Six,United States,585113.0,17010925.0,11496,203,18,['rock']
+1426,Stevie Nicks,United States,584102.0,7051753.0,2586,255,22,"['rock', 'pop', 'folk']"
+1427,Pusha T,United States,583079.0,11765422.0,32128,288,50,"['rap', 'pop', 'foreignrap']"
+1428,Afrojack,Netherlands,583051.0,5726296.0,41143,299,86,"['dance', 'house', 'pop']"
+1429,Billy Currington,United States,583017.0,5021699.0,202,77,13,['country']
+1430,Amon Amarth,Sweden,582946.0,51576253.0,32187,130,12,['deathmetal']
+1431,The Black Crowes,United States,582894.0,9957674.0,931,191,21,"['rock', 'hardrock', 'holiday']"
+1432,Blue October,United Kingdom,582706.0,14945783.0,28287,103,17,"['rock', 'alternative', 'rap']"
+1433,"Harry Connick, Jr.",United States,582356.0,5241317.0,1952,334,13,['vocaljazz']
+1434,Cassius,France,582046.0,5800546.0,1344,155,15,"['electronics', 'rap', 'dance']"
+1435,Wheatus,United States,581756.0,4480601.0,264,86,24,"['alternative', 'pop', 'rock']"
+1436,Anna Nalick,United States,581492.0,6696677.0,186,49,5,"['pop', 'alternative', 'folk']"
+1437,10 Years,United States,581485.0,11787201.0,6939,82,9,"['rock', 'alternative', 'holiday']"
+1438,Gipsy Kings,France,581256.0,8011427.0,57241,182,9,"['folk', 'latinfolk', 'pop']"
+1439,Squarepusher,United Kingdom,581224.0,14208934.0,2676,8,1,['electronics']
+1440,Chumbawamba,United Kingdom,581078.0,6132484.0,1165,52,3,"['pop', 'folkrock']"
+1441,Ol’ Dirty Bastard,United States,580906.0,6401899.0,2394,155,11,"['rap', 'foreignrap', 'house']"
+1442,She Wants Revenge,United States,580882.0,16727718.0,10512,41,4,['gothicmetal']
+1443,Hawthorne Heights,United States,580406.0,12136653.0,1005,127,15,['posthardcore']
+1444,Christina Milian,United States,580072.0,3669241.0,383,70,14,"['dance', 'pop', 'rnb']"
+1445,Milky Chance,Germany,579484.0,10424286.0,112874,76,16,['indie']
+1446,August Burns Red,United States,579368.0,27034066.0,227694,172,23,['metalcoregenre']
+1447,Mindless Self Indulgence,United States,579315.0,38359986.0,126056,124,14,"['alternative', 'electronics', 'rock']"
+1448,The Everly Brothers,United States,578733.0,5196615.0,1886,1022,296,"['rock', 'pop', 'country']"
+1449,Radical Face,United States,578472.0,11518791.0,9116,93,14,['indie']
+1450,Labrinth,United Kingdom,577569.0,4883245.0,154,58,18,"['electronics', 'dance', 'newage']"
+1451,The Glitch Mob,United States,577422.0,15761391.0,15380,137,14,['edmgenre']
+1452,George Strait,United States,577368.0,9064427.0,1212,399,50,"['country', 'holiday', 'pop']"
+1453,Camille Saint‐Saëns,France,576321.0,4344404.0,29076,12966,1534,[]
+1454,Mandy Moore,United States,576231.0,7689874.0,629,54,5,"['pop', 'foreignbard', 'soundtrack']"
+1455,Joe,United States,576054.0,4392533.0,378395,278,2,"['estrada', 'electronics']"
+1456,Joe LaPorta,United States,576054.0,4392533.0,1,14,2,"['dance', 'electronics']"
+1457,Yazoo,United Kingdom,575745.0,5154780.0,1268,46,10,"['pop', 'dance']"
+1458,Ministry,United States,575513.0,14728598.0,30379,246,43,['industrial']
+1459,Blind Pilot,United States,575136.0,9517501.0,790,34,4,['alternative']
+1460,The Radio Dept.,Sweden,574979.0,22414652.0,1192,21,4,"['indie', 'alternative']"
+1461,Eluvium,United States,574842.0,13071678.0,577,147,17,['ambientgenre']
+1462,Chromatics,United States,574756.0,13051187.0,4766,134,27,['indie']
+1463,The Cool Kids,United States,574749.0,6454160.0,245,110,14,"['rap', 'foreignrap', 'dance']"
+1464,Dead or Alive,United Kingdom,574694.0,4252723.0,1912,126,8,"['pop', 'rock', 'electronics']"
+1465,MxPx,United States,574110.0,11633987.0,1144,215,22,"['pop', 'punk', 'rock']"
+1466,"The Good, the Bad & the Queen",United Kingdom,574085.0,8657694.0,1561,29,5,['indie']
+1467,The Faint,United States,574083.0,13863775.0,437,57,9,"['rock', 'electronics', 'indie']"
+1468,Forever the Sickest Kids,United States,574024.0,12443580.0,381,52,8,"['rock', 'pop', 'alternative']"
+1469,Neko Case,United States,572504.0,18711296.0,509,138,13,['foreignbard']
+1470,Doris Day,United States,571993.0,4007987.0,12558,3995,455,['vocaljazz']
+1471,This Will Destroy You,United States,571808.0,15349663.0,32293,60,15,['postrock']
+1472,Aesop Rock,United States,571738.0,23128113.0,2161,167,20,"['rap', 'films', 'dnb']"
+1473,The Gaslight Anthem,United States,571389.0,36048167.0,1357,41,3,"['rock', 'alternative']"
+1474,LeAnn Rimes,United States,571048.0,5711833.0,27234,268,44,"['dance', 'pop', 'country']"
+1475,Apollo 440,United Kingdom,570926.0,5848921.0,3393,72,1,['breakbeatgenre']
+1476,Vitalic,France,570344.0,10731912.0,3793,51,7,"['electronics', 'techno', 'dance']"
+1477,Kodaline,Ireland,569990.0,11605992.0,53252,60,0,"['indie', 'techno']"
+1478,Benjamin Francis Leftwich,United Kingdom,569895.0,7935451.0,846,87,22,['foreignbard']
+1479,Bobby McFerrin,United States,569628.0,3932028.0,35399,175,13,['vocaljazz']
+1480,Bobby Womack,United States,568821.0,5346219.0,1933,318,46,"['rnb', 'pop', 'soul']"
+1481,!!!,United States,568805.0,10034411.0,432,14,5,['alternative']
+1482,Gang of Four,United Kingdom,568700.0,9517522.0,11333,102,18,"['alternative', 'newwave', 'rock']"
+1483,Gentleman,Germany,568645.0,13585300.0,0,0,0,[]
+1484,Cary Brothers,United States,568638.0,5083190.0,565,50,12,['foreignbard']
+1485,Blood Red Shoes,United Kingdom,568326.0,13881374.0,5302,52,10,"['rock', 'alternative', 'electronics']"
+1486,Coconut Records,United States,568151.0,9497540.0,273,34,3,"['pop', 'films', 'punk']"
